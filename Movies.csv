@@ -1,0 +1,743 @@
+GexfID,Title,IMDB_id,ReleaseDate,Slug,WeightedDegree,Modularity,PathLength,Diameter,ClusteringCoefficient,ConnectedComponents,Density,Edges,Characters,rating
+1,10 Things I Hate About You,tt0147800,1999,10-Things-I-Hate-About-You,13.04,0.194,1.779,3,0.567,3,0.233,225,25,7.2
+2,12,tt0488478,2007,12,4.227,0.517,2.17,3,0.61,6,0.077,102,42,7.6
+5,127 Hours,tt1542344,2010,127-Hours,3.833,0.16,1.722,2,0.339,4,0.152,33,11,7.6
+6,1492: Conquest of Paradise,tt0103594,1992,1492:-Conquest-of-Paradise,7.941,0.35,2.043,4,0.705,1,0.153,164,34,6.5
+7,15 Minutes,tt0179626,2001,15-Minutes,8.784,0.344,2.114,4,0.713,4,0.12,265,47,6.1
+8,17 Again,tt0974661,2009,17-Again,13.027,0.252,1.879,3,0.794,2,0.192,307,37,6.4
+9,One Eight Seven,tt0118531,1997,One-Eight-Seven,6,0.423,2.206,4,0.713,2,0.121,116,33,6.7
+10,2001: A Space Odyssey,tt0062622,1968,2001:-A-Space-Odyssey,8.444,0.45,1.795,3,0.879,1,0.291,122,27,8.3
+11,2012,tt1190080,2009,2012,10.6,0.438,2.519,5,0.647,3,0.089,470,69,5.8
+13,44 Inch Chest,tt0914837,2009,44-Inch-Chest,33.5,0.163,1.655,3,0.636,2,0.348,332,12,5.8
+14,48 Hrs.,tt0083511,1982,48-Hrs.,7.511,0.429,2.049,3,0.76,4,0.125,210,44,6.9
+15,(500) Days of Summer,tt1022603,2009,(500)-Days-of-Summer,9.929,0.221,1.833,3,0.665,4,0.177,173,21,7.7
+17,8MM,tt0134273,1999,8MM,5.923,0.268,1.834,2,0.442,4,0.129,96,25,6.5
+19,A Few Good Men,tt0104257,1992,A-Few-Good-Men,17.533,0.28,2.02,4,0.67,2,0.175,376,28,7.6
+21,Above the Law,tt0094602,1988,Above-the-Law,6.766,0.36,2.116,5,0.579,8,0.089,189,44,5.9
+22,Absolute Power,tt0118548,1997,Absolute-Power,6.69,0.428,2.319,4,0.48,3,0.113,137,29,6.7
+23,The Abyss,tt0096754,1989,The-Abyss,14.667,0.36,1.826,3,0.783,5,0.17,383,36,7.6
+24,Ace Ventura: Pet Detective,tt0109040,1994,Ace-Ventura:-Pet-Detective,6.59,0.449,2.103,3,0.666,8,0.081,210,52,6.9
+25,Adaptation.,tt0268126,2002,Adaptation.,5.257,0.427,2.446,4,0.288,6,0.074,116,35,7.7
+26,The Addams Family,tt0101272,1991,The-Addams-Family,13.733,0.071,1.462,3,0.665,3,0.419,151,15,6.8
+27,The Adventures of Buckaroo Banzai Across the 8th Dimension,tt0086856,1984,The-Adventures-of-Buckaroo-Banzai-Across-the-8th-Dimension,11.29,0.346,2.225,5,0.547,9,0.11,396,52,6.4
+28,Affliction,tt0118564,1997,Affliction,8.667,0.296,1.899,4,0.624,1,0.207,140,24,7
+30,After Life,tt0838247,2009,After.Life,7.077,0.342,2.087,3,0.616,3,0.126,110,28,5.9
+31,Agnes of God,tt0088683,1985,Agnes-of-God,13.524,0.254,1.514,2,0.835,1,0.486,164,21,6.6
+32,Air Force One,tt0118571,1997,Air-Force-One,7.719,0.438,2.465,6,0.506,10,0.076,302,60,6.4
+33,Airplane!,tt0080339,1980,Airplane!,5.958,0.511,1.975,4,0.556,9,0.086,178,46,7.8
+34,Airplane II: The Sequel,tt0083530,1982,Airplane-II:-The-Sequel,9.043,0.492,2.611,6,0.683,10,0.061,493,103,6.1
+36,Ali,tt0248667,2001,Ali,9.128,0.379,2.234,5,0.659,3,0.088,345,71,6.8
+39,Alien Nation,tt0094631,1988,Alien-Nation,7.765,0.342,1.865,3,0.762,4,0.148,165,34,6.3
+40,AVP: Alien vs. Predator,tt0370263,2004,AVP:-Alien-vs.-Predator,12.48,0.286,2.033,4,0.667,2,0.253,209,22,5.6
+41,Alien: Resurrection,tt0118583,1997,Alien:-Resurrection,26.414,0.15,1.758,4,0.658,3,0.347,478,27,6.3
+42,Aliens,tt0090605,1986,Aliens,18.867,0.234,1.791,3,0.698,5,0.248,401,28,8.4
+43,All About Eve,tt0042192,1950,All-About-Eve,16.5,0.08,1.567,3,0.813,2,0.416,234,20,8.3
+44,All About Steve,tt0881891,2009,All-About-Steve,6.207,0.384,2.237,5,0.529,13,0.068,229,56,4.8
+47,Almost Famous,tt0181875,2000,Almost-Famous,13.345,0.339,2.028,4,0.73,3,0.139,462,53,7.9
+48,Alone in the Dark,tt0369226,2005,Alone-in-the-Dark,8.552,0.267,2.211,4,0.56,3,0.175,152,26,2.3
+49,Amadeus,tt0086879,1984,Amadeus,11.02,0.422,2.265,5,0.795,2,0.149,290,44,8.3
+50,Amelia,tt0211915,2001,Amelia,8.375,0.341,2.044,4,0.678,4,0.112,111,28,8.4
+51,American Beauty,tt0169547,1999,American-Beauty,9.304,0.278,1.957,3,0.563,2,0.182,144,23,8.4
+52,American Gangster,tt0765429,2007,American-Gangster,5.031,0.418,2.385,4,0.456,6,0.059,176,56,7.8
+54,American History X,tt0120586,1998,American-History-X,10.146,0.363,2.381,5,0.638,2,0.141,268,40,8.6
+57,American Pie,tt0163651,1999,American-Pie,10.81,0.304,1.988,3,0.602,7,0.13,284,39,7
+58,The American President,tt0112346,1995,The-American-President,9.649,0.352,2.143,4,0.701,7,0.105,324,56,6.8
+59,American Psycho,tt0144084,2000,American-Psycho,5.714,0.308,1.818,2,0.702,3,0.156,99,27,7.6
+60,American Shaolin,tt0101327,1991,American-Shaolin,7.588,0.421,2.182,3,0.639,2,0.132,156,32,5.8
+61,American Splendor,tt0305206,2003,American-Splendor,7.435,0.374,1.915,3,0.696,6,0.09,162,36,7.5
+62,An American Werewolf in London,tt0082010,1981,An-American-Werewolf-in-London,6.462,0.353,2.054,4,0.523,7,0.119,139,37,7.6
+63,An Education,tt1174732,2009,An-Education,15.8,0.274,1.791,3,0.602,3,0.242,227,20,7.3
+64,Analyze That,tt0289848,2002,Analyze-That,7.837,0.396,2.277,5,0.651,3,0.111,242,48,5.9
+65,Analyze This,tt0122933,1999,Analyze-This,10.143,0.284,2,4,0.62,4,0.151,263,39,6.7
+66,Anastasia,tt0118617,1997,Anastasia,9.875,0.34,1.952,3,0.821,1,0.206,155,27,7.1
+67,Angel Eyes,tt0225071,2001,Angel-Eyes,7.706,0.355,1.929,3,0.788,1,0.16,158,33,5.6
+68,Angels & Demons,tt0808151,2009,Angels-&-Demons,8.129,0.374,2.307,5,0.587,4,0.131,155,25,8.4
+69,Annie Hall,tt0075686,1977,Annie-Hall,8.179,0.399,1.863,2,0.828,4,0.123,254,54,8.1
+70,The Anniversary Party,tt0254099,2001,The-Anniversary-Party,22.69,0.106,1.552,3,0.846,1,0.473,412,27,6.3
+71,Antitrust,tt0218817,2001,Antitrust,8.125,0.369,2.157,5,0.663,4,0.108,240,46,6.1
+72,Antz,tt0120587,1998,Antz,9.7,0.296,1.996,4,0.678,3,0.192,204,39,6.6
+73,The Apartment,tt0053604,1960,The-Apartment,7.818,0.267,2.045,4,0.605,1,0.144,151,31,8.3
+74,Apocalypse Now,tt0078788,1979,Apocalypse-Now,15.409,0.219,1.753,3,0.822,2,0.251,344,39,8.5
+76,Apt Pupil,tt0118636,1998,Apt-Pupil,8.75,0.208,1.819,3,0.575,4,0.203,146,23,6.7
+80,Army of Darkness,tt0106308,1992,Army-of-Darkness,6.154,0.269,1.81,3,0.661,4,0.209,85,24,7.6
+81,As Good as It Gets,tt0119822,1997,As-Good-as-It-Gets,6.971,0.468,2.22,3,0.658,1,0.124,160,35,7.7
+82,Assassins,tt0112401,1995,Assassins,4.947,0.414,2.287,4,0.321,3,0.14,60,17,6.3
+83,The Assignment,tt0118647,1997,The-Assignment,6.885,0.399,2.508,5,0.49,6,0.083,137,42,4.5
+84,At First Sight,tt0132512,1999,At-First-Sight,8.533,0.228,1.803,3,0.722,4,0.168,159,27,5.9
+85,Austin Powers: International Man of Mystery,tt0118655,1997,Austin-Powers:-International-Man-of-Mystery,6.192,0.436,2.07,4,0.737,6,0.09,167,45,7
+86,Austin Powers: The Spy Who Shagged Me,tt0145660,1999,Austin-Powers:-The-Spy-Who-Shagged-Me,5.175,0.497,2.151,4,0.526,15,0.064,174,56,6.6
+87,Autumn in New York,tt0174480,2000,Autumn-in-New-York,9.486,0.317,1.881,3,0.773,1,0.17,204,32,5.5
+88,Avatar,tt0499549,2009,Avatar,15.125,0.264,1.897,3,0.778,2,0.222,310,29,7.8
+89,The Avengers,tt0054518,1961,The-Avengers,8.583,0.22,1.771,2,0.617,4,0.174,147,23,8.1
+91,Awakenings,tt0099077,1990,Awakenings,12.364,0.269,1.905,3,0.752,3,0.176,382,50,7.8
+92,Babel,tt0449467,2006,Babel,6.486,0.689,3.941,9,0.672,2,0.058,301,73,7.5
+93,Bachelor Party,tt0086927,1984,Bachelor-Party,12.957,0.334,2.011,4,0.771,5,0.131,374,46,6.3
+97,Backdraft,tt0101393,1991,Backdraft,14.537,0.196,1.969,4,0.704,2,0.212,341,36,6.7
+98,Bad Boys,tt0112442,1995,Bad-Boys,9.25,0.298,2.121,3,0.707,3,0.122,257,40,6.8
+99,Bad Day at Black Rock,tt0047849,1955,Bad-Day-at-Black-Rock,12.778,0.077,1.557,3,0.648,3,0.333,142,14,7.8
+100,The Bad Lieutenant: Port of Call - New Orleans,tt1095217,2009,The-Bad-Lieutenant:-Port-of-Call---New-Orleans,4.091,0.476,1.93,3,0.714,6,0.089,87,37,6.7
+101,Bad Santa,tt0307987,2003,Bad-Santa,5.368,0.323,1.964,3,0.561,7,0.101,120,33,7.1
+102,Badlands,tt0069762,1973,Badlands,6.526,0.269,1.889,3,0.607,2,0.164,69,16,8.1
+103,Bamboozled,tt0215545,2000,Bamboozled,10.852,0.447,2.114,3,0.659,4,0.111,289,56,6.5
+104,Barry Lyndon,tt0072684,1975,Barry-Lyndon,5.755,0.449,1.981,3,0.612,3,0.081,159,47,8.1
+106,Basic,tt0264395,2003,Basic,16.545,0.25,1.922,4,0.715,1,0.281,250,18,6.5
+107,Basic Instinct,tt0103772,1992,Basic-Instinct,13.68,0.187,1.72,2,0.799,1,0.28,236,24,6.9
+108,Basquiat,tt0115632,1996,Basquiat,14.426,0.277,1.793,2,0.792,2,0.2,478,58,6.9
+109,Batman,tt0096895,1989,Batman,5.574,0.451,2.464,5,0.593,10,0.072,194,58,7.6
+110,Batman Returns,tt0103776,1992,Batman-Returns,6.133,0.589,2.969,7,0.708,5,0.078,190,54,7
+111,The Battle of Algiers,tt0058946,1966,The-Battle-of-Algiers,3.962,0.58,2.948,7,0.495,9,0.066,93,48,8.1
+112,The Battle of Shaker Heights,tt0357470,2003,The-Battle-of-Shaker-Heights,8.059,0.311,2.039,4,0.738,1,0.148,166,32,6.1
+113,The Beach,tt0163978,2000,The-Beach,8.811,0.41,1.863,3,0.751,1,0.168,182,35,6.6
+114,Bean,tt0118689,1997,Bean,9.158,0.42,2.879,8,0.54,7,0.119,213,37,6.4
+115,Beavis and Butt-Head Do America,tt0115641,1996,Beavis-and-Butt-Head-Do-America,7.18,0.415,2.276,4,0.739,6,0.082,263,57,6.8
+116,Being Human,tt1349938,2008,Being-Human,6.455,0.527,2.222,5,0.682,5,0.074,250,65,7.5
+117,Being John Malkovich,tt0120601,1999,Being-John-Malkovich,7.238,0.364,2.151,3,0.699,5,0.102,189,38,7.8
+118,Being There,tt0078841,1979,Being-There,7.451,0.393,2.167,4,0.701,2,0.092,223,51,8
+119,The Believer,tt0247199,2001,The-Believer,8.679,0.363,2.002,5,0.669,5,0.112,232,46,7.2
+120,Beloved,tt0120603,1998,Beloved,6.05,0.48,2.264,4,0.484,6,0.09,148,37,5.9
+122,Big,tt0094737,1988,Big,12.824,0.184,1.775,3,0.647,2,0.301,160,17,7.3
+123,Bear in the Big Blue House,tt0173664,1997,Bear-in-the-Big-Blue-House,10.194,0.247,1.952,3,0.646,4,0.176,213,30,6.8
+124,Big Fish,tt0319061,2003,Big-Fish,6.698,0.446,2.166,3,0.751,2,0.103,174,38,8
+125,The Big Lebowski,tt0118715,1998,The-Big-Lebowski,8.419,0.378,1.918,3,0.647,2,0.107,198,37,8.2
+126,The Big White,tt0402850,2005,The-Big-White,7.813,0.363,2.217,4,0.597,4,0.129,171,32,6.4
+127,The Birds,tt0056869,1963,The-Birds,16.444,0.26,1.573,2,0.885,1,0.427,211,26,7.7
+128,Birthday Girl,tt0188453,2001,Birthday-Girl,4.1,0.302,1.86,3,0.452,4,0.132,59,19,6.1
+129,The Black Dahlia,tt0387877,2006,The-Black-Dahlia,7.281,0.356,2.048,4,0.595,4,0.071,300,63,5.6
+130,Black Rain,tt0096933,1989,Black-Rain,8.966,0.278,1.854,3,0.713,2,0.175,161,27,6.6
+131,Black Snake Moan,tt0462200,2006,Black-Snake-Moan,6,0.408,2.146,3,0.677,2,0.121,119,32,7
+132,Blade,tt0120611,1998,Blade,6.897,0.275,1.953,4,0.602,4,0.14,137,29,7.1
+133,Blade II,tt0187738,2002,Blade-II,14,0.169,1.996,5,0.664,2,0.222,239,21,6.7
+134,Blade Runner,tt0083658,1982,Blade-Runner,5.231,0.442,2.458,4,0.52,1,0.138,79,25,8.2
+135,Blade: Trinity,tt0359013,2004,Blade:-Trinity,6.824,0.439,2.502,5,0.568,7,0.096,164,36,5.9
+136,Blast from the Past,tt0124298,1999,Blast-from-the-Past,8.125,0.51,2.368,4,0.612,3,0.105,256,48,6.6
+137,Blood Simple.,tt0086979,1984,Blood-Simple.,5.375,0.305,1.985,3,0.421,5,0.175,59,15,7.7
+138,Blow,tt0221027,2001,Blow,8.632,0.38,2,4,0.675,2,0.093,294,55,7.6
+139,Blue Velvet,tt0090756,1986,Blue-Velvet,8.111,0.41,1.979,3,0.6,4,0.108,195,34,7.8
+141,"Bodies, Rest & Motion",tt0106447,1993,"Bodies,-Rest-&-Motion",6.385,0.252,1.905,3,0.573,4,0.16,80,17,5.7
+142,Body Heat,tt0082089,1981,Body-Heat,8,0.285,1.779,2,0.501,3,0.182,113,22,7.4
+143,Body of Evidence,tt0106453,1993,Body-of-Evidence,10.154,0.246,1.883,3,0.738,1,0.209,153,24,7.1
+144,The Bodyguard,tt0103855,1992,The-Bodyguard,8.913,0.365,2.043,4,0.607,5,0.118,264,45,6.2
+145,Bones,tt0460627,2005,Bones,10.146,0.425,2.689,6,0.679,5,0.14,224,28,7.9
+146,The Bonfire of the Vanities,tt0099165,1990,The-Bonfire-of-the-Vanities,10.265,0.459,2.11,3,0.73,3,0.12,394,64,5.5
+147,Bonnie and Clyde,tt0061418,1967,Bonnie-and-Clyde,8.56,0.369,1.93,4,0.595,4,0.153,152,24,7.9
+148,Boogie Nights,tt0118749,1997,Boogie-Nights,9.574,0.332,2.258,4,0.614,7,0.096,344,53,7.9
+149,The Book of Eli,tt1037705,2010,The-Book-of-Eli,9.172,0.292,1.791,2,0.8,2,0.195,133,23,6.9
+150,The Boondock Saints II: All Saints Day,tt1300851,2009,The-Boondock-Saints-II:-All-Saints-Day,9.93,0.425,2.511,5,0.631,8,0.098,374,54,6.3
+151,The Boondock Saints,tt0144117,1999,The-Boondock-Saints,9.524,0.371,2.159,3,0.559,5,0.116,245,40,7.9
+152,Bottle Rocket,tt0115734,1996,Bottle-Rocket,12.514,0.275,1.815,3,0.78,1,0.205,277,33,7.1
+153,Bound,tt0115736,1996,Bound,12.133,0.393,2.019,3,0.777,1,0.295,139,15,7.4
+154,The Bounty Hunter,tt1038919,2010,The-Bounty-Hunter,6.14,0.377,2.213,4,0.47,9,0.084,161,30,5.5
+155,The Bourne Identity,tt0258463,2002,The-Bourne-Identity,5.17,0.532,2.197,4,0.588,9,0.081,108,38,7.9
+157,The Bourne Ultimatum,tt0440963,2007,The-Bourne-Ultimatum,5.647,0.406,2.337,4,0.601,6,0.08,164,45,8.1
+158,Braveheart,tt0112573,1995,Braveheart,10.053,0.378,2.197,5,0.707,6,0.114,400,70,8.4
+159,Brazil,tt0088846,1985,Brazil,6.818,0.393,1.965,4,0.722,5,0.111,161,40,8
+161,Breakdown,tt0118771,1997,Breakdown,8.8,0.278,1.821,3,0.656,1,0.237,122,20,6.9
+162,The Breakfast Club,tt0088847,1985,The-Breakfast-Club,19.333,0.029,1.417,3,0.681,1,0.611,122,9,7.9
+164,Bringing Out the Dead,tt0163988,1999,Bringing-Out-the-Dead,9.488,0.342,1.887,3,0.782,1,0.147,230,40,6.3
+165,Broadcast News,tt0092699,1987,Broadcast-News,10.943,0.285,2.044,3,0.757,2,0.128,384,53,6.8
+166,Broken Arrow,tt0115759,1996,Broken-Arrow,8.984,0.419,2.406,4,0.727,3,0.107,179,33,7.2
+167,Broken Embraces,tt0913425,2009,Broken-Embraces,8.762,0.315,2.162,4,0.638,2,0.134,205,36,6
+169,Bruce Almighty,tt0315327,2003,Bruce-Almighty,6.947,0.444,1.949,3,0.711,6,0.098,212,55,7.2
+170,Buffy the Vampire Slayer,tt0118276,1997,Buffy-the-Vampire-Slayer,13.422,0.217,2.006,5,0.597,4,0.206,271,33,6.7
+171,Bull Durham,tt0094812,1988,Bull-Durham,14.051,0.228,1.867,3,0.649,4,0.216,341,34,8.2
+173,Burlesque,tt1126591,2010,Burlesque,13.436,0.285,1.791,3,0.812,2,0.215,275,29,7.1
+174,Burn After Reading,tt0887883,2008,Burn-After-Reading,5.2,0.45,2.412,4,0.573,6,0.096,128,39,6.4
+175,The Butterfly Effect,tt0289879,2004,The-Butterfly-Effect,8.8,0.331,1.932,3,0.729,3,0.126,203,31,7
+176,The Cable Guy,tt0115798,1996,The-Cable-Guy,8.744,0.31,1.919,3,0.601,6,0.117,225,38,7.7
+177,Capote,tt0379725,2005,Capote,6.435,0.378,2.131,4,0.749,2,0.1,188,43,6
+178,Casino,tt0112641,1995,Casino,9.628,0.415,2.06,3,0.758,5,0.052,673,111,7.4
+179,Cast Away,tt0162222,2000,Cast-Away,5.421,0.375,1.872,2,0.807,4,0.097,130,37,8.2
+180,Catch Me If You Can,tt0264464,2002,Catch-Me-If-You-Can,4.429,0.496,2.177,4,0.562,10,0.038,227,87,7.7
+182,The Cell,tt0209958,2000,The-Cell,8.214,0.358,2.217,5,0.51,5,0.156,148,27,8.1
+183,Cellular,tt0337921,2004,Cellular,9.17,0.392,2.176,4,0.79,2,0.115,271,49,6.3
+184,Changeling,tt0824747,2008,Changeling,6,0.46,2.494,5,0.613,3,0.079,206,57,6.5
+185,Spin City,tt0115369,1996,Spin-City,12.063,0.19,1.972,4,0.65,2,0.185,248,31,7.8
+186,Charade,tt0056923,1963,Charade,12.353,0.191,2.002,4,0.547,4,0.193,227,32,7.3
+187,Charlie's Angels: Full Throttle,tt0305357,2003,Charlie's-Angels:-Full-Throttle,12.129,0.262,2.045,4,0.648,4,0.172,263,29,8
+189,Chasing Sleep,tt0221069,2000,Chasing-Sleep,8.211,0.17,1.706,2,0.743,3,0.234,87,18,4.8
+190,Cherry Falls,tt0175526,2000,Cherry-Falls,5.444,0.486,2.831,7,0.581,3,0.08,174,52,6.4
+191,Chinatown,tt0071315,1974,Chinatown,6.8,0.4,1.898,2,0.704,1,0.102,168,45,5.1
+192,"The Chronicles of Narnia: The Lion, the Witch and the Wardrobe",tt0363771,2005,"The-Chronicles-of-Narnia:-The-Lion,-the-Witch-and-the-Wardrobe",19.313,0.155,1.673,3,0.822,1,0.335,391,28,8.2
+193,The Cider House Rules,tt0124315,1999,The-Cider-House-Rules,15.789,0.323,2.024,4,0.707,1,0.199,410,33,6.9
+194,The Cincinnati Kid,tt0059037,1965,The-Cincinnati-Kid,15.707,0.189,1.832,4,0.675,5,0.243,289,33,7.4
+195,Cinema Paradiso,tt0095765,1988,Cinema-Paradiso,6.115,0.35,2.217,4,0.573,8,0.088,164,47,7.3
+197,Citizen Kane,tt0033467,1941,Citizen-Kane,6.754,0.563,2.479,4,0.763,4,0.083,210,54,8.5
+198,City of Joy,tt0103976,1992,City-of-Joy,10.522,0.305,2.017,4,0.679,3,0.138,303,44,8.4
+199,Clash of the Titans,tt0800320,2010,Clash-of-the-Titans,8.706,0.32,1.918,3,0.538,6,0.157,194,31,6.4
+200,Clerks.,tt0109445,1994,Clerks.,8.154,0.37,2.043,3,0.77,1,0.167,152,35,5.8
+201,Cliffhanger,tt0106582,1993,Cliffhanger,13.913,0.269,1.834,3,0.738,1,0.308,210,23,5.3
+204,Cobb,tt0109450,1994,Cobb,7.805,0.374,1.952,3,0.8,1,0.133,185,40,6.4
+205,Code of Silence,tt0088936,1985,Code-of-Silence,6.818,0.363,2.232,5,0.589,4,0.111,181,43,6.5
+206,Cold Mountain,tt0159365,2003,Cold-Mountain,7.745,0.434,2.173,4,0.58,3,0.104,225,43,6
+208,Collateral Damage,tt0233469,2002,Collateral-Damage,6.292,0.36,2.009,4,0.612,6,0.087,189,46,7.2
+209,Confessions of a Dangerous Mind,tt0270288,2002,Confessions-of-a-Dangerous-Mind,4.865,0.446,2.182,5,0.569,6,0.05,202,73,5.5
+210,Confidence,tt0310910,2003,Confidence,15.852,0.191,1.791,3,0.697,2,0.236,281,26,7.1
+211,Constantine,tt0360486,2005,Constantine,5.769,0.335,2.022,4,0.512,3,0.135,100,26,6.7
+212,The Cooler,tt0318374,2003,The-Cooler,9.176,0.306,1.892,3,0.727,4,0.185,189,32,6.9
+213,Copycat,tt0112722,1995,Copycat,4.279,0.441,2.301,4,0.582,10,0.081,107,41,7
+214,Coraline,tt0327597,2009,Coraline,7.667,0.402,1.875,2,0.854,1,0.125,155,28,6.6
+216,Cradle 2 the Grave,tt0306685,2003,Cradle-2-the-Grave,10.462,0.349,2.186,4,0.625,3,0.162,248,38,7.7
+217,Crank,tt0479884,2006,Crank,6.286,0.356,2.067,4,0.568,10,0.064,153,40,5.8
+218,Crash,tt0375679,2004,Crash,6.133,0.29,1.971,3,0.504,1,0.238,57,15,7
+220,Crime Spree,tt0310924,2003,Crime-Spree,14.255,0.286,2.227,4,0.602,5,0.141,457,46,7.8
+221,"Crouching Tiger, Hidden Dragon",tt0190332,2000,"Crouching-Tiger,-Hidden-Dragon",8.182,0.389,2.101,4,0.652,2,0.174,159,33,6.6
+222,Croupier,tt0159382,1998,Croupier,8.061,0.37,1.861,2,0.628,2,0.131,173,33,7.9
+223,The Crow: Salvation,tt0132910,2000,The-Crow:-Salvation,7,0.33,2.03,4,0.651,4,0.135,143,33,7.2
+224,The Crow,tt0109506,1994,The-Crow,6.6,0.368,2.34,5,0.538,1,0.156,119,30,5
+225,The Crow: City of Angels,tt0115986,1996,The-Crow:-City-of-Angels,7.44,0.25,1.924,4,0.697,2,0.2,111,21,7.6
+226,Cruel Intentions,tt0139134,1999,Cruel-Intentions,8.375,0.25,1.9,4,0.668,1,0.275,92,16,4.5
+227,The Crying Game,tt0104036,1992,The-Crying-Game,14.533,0.25,1.686,3,0.766,1,0.371,143,14,6.8
+229,The Curious Case of Benjamin Button,tt0421715,2008,The-Curious-Case-of-Benjamin-Button,12.13,0.333,2.13,4,0.675,2,0.126,373,46,7.3
+231,The Damned United,tt1226271,2009,The-Damned-United,7.459,0.349,1.911,3,0.719,1,0.126,166,35,7.8
+232,Dances with Wolves,tt0099348,1990,Dances-with-Wolves,6.051,0.491,2.278,4,0.569,8,0.104,146,39,7.6
+234,Dark Star,tt0069945,1974,Dark-Star,8.545,0.055,1.429,2,0.53,4,0.291,64,11,8
+235,Darkman,tt0099365,1990,Darkman,12.921,0.354,1.979,4,0.787,5,0.123,189,41,6.5
+236,Date Night,tt1279935,2010,Date-Night,10.326,0.312,1.836,2,0.829,1,0.164,210,33,6.4
+238,Day of the Dead,tt0088993,1985,Day-of-the-Dead,5.674,0.522,2.489,5,0.529,6,0.1,134,34,6.3
+239,The Day the Clown Cried,tt0068451,1972,The-Day-the-Clown-Cried,12,0.298,1.835,3,0.726,3,0.189,298,40,7.2
+240,The Day the Earth Stood Still,tt0043456,1951,The-Day-the-Earth-Stood-Still,7.077,0.492,2.302,5,0.674,6,0.142,154,34,5.5
+241,Days of Heaven,tt0077405,1978,Days-of-Heaven,10.2,0.236,1.817,3,0.665,3,0.2,143,16,5.5
+242,Dead Poets Society,tt0097165,1989,Dead-Poets-Society,21.378,0.223,1.808,3,0.794,2,0.281,629,44,8
+243,Death at a Funeral,tt0795368,2007,Death-at-a-Funeral,25.2,0.081,1.509,3,0.831,2,0.484,356,19,8
+244,Death to Smoochy,tt0266452,2002,Death-to-Smoochy,7.24,0.493,2.462,4,0.75,1,0.098,211,48,7.4
+246,Deep Cover,tt0104073,1992,Deep-Cover,8.615,0.335,2.083,4,0.712,4,0.132,199,34,6.4
+247,Deep Rising,tt0118956,1998,Deep-Rising,16.762,0.272,1.786,3,0.801,1,0.371,243,19,6.9
+248,The Deer Hunter,tt0077416,1978,The-Deer-Hunter,7.6,0.332,2.179,5,0.505,6,0.104,193,38,6
+249,Defiance,tt1034303,2008,Defiance,12.029,0.299,2.006,4,0.63,7,0.109,509,57,8.2
+250,The Departed,tt0407887,2006,The-Departed,7.273,0.402,2.35,4,0.554,3,0.082,236,49,7
+251,Detroit Rock City,tt0165710,1999,Detroit-Rock-City,10.157,0.282,2.144,4,0.797,5,0.12,281,43,8.5
+252,Devil in a Blue Dress,tt0112857,1995,Devil-in-a-Blue-Dress,7.257,0.37,1.904,3,0.712,2,0.138,149,35,6.8
+253,The Devil's Advocate,tt0118971,1997,The-Devil's-Advocate,8.565,0.323,2.011,3,0.601,4,0.116,257,46,6.7
+254,Die Hard,tt0095016,1988,Die-Hard,14.333,0.202,1.872,3,0.756,2,0.21,418,48,7.5
+255,The Distinguished Gentleman,tt0104114,1992,The-Distinguished-Gentleman,11.736,0.283,1.869,3,0.748,3,0.15,367,52,8.2
+256,Disturbia,tt0486822,2007,Disturbia,7,0.262,1.747,2,0.62,5,0.174,111,21,5.8
+257,Do the Right Thing,tt0097216,1989,Do-the-Right-Thing,14.811,0.281,1.745,3,0.704,2,0.272,290,30,6.9
+258,Dog Day Afternoon,tt0072890,1975,Dog-Day-Afternoon,17.705,0.26,1.821,4,0.765,4,0.229,338,39,7.9
+260,Donnie Brasco,tt0119008,1997,Donnie-Brasco,10.549,0.377,2.069,4,0.719,2,0.125,305,44,8
+261,The Doors,tt0101761,1991,The-Doors,16.198,0.333,2.015,5,0.79,4,0.12,718,91,7.8
+262,Double Indemnity,tt0036775,1944,Double-Indemnity,4.733,0.309,1.753,2,0.466,7,0.11,82,21,7.2
+263,Drag Me to Hell,tt1127180,2009,Drag-Me-to-Hell,7.733,0.317,1.871,3,0.762,1,0.177,98,22,8.3
+264,Dragonslayer,tt0082288,1981,Dragonslayer,13.5,0.166,1.525,2,0.793,1,0.475,136,15,6.6
+265,Drop Dead Gorgeous,tt0157503,1999,Drop-Dead-Gorgeous,12.113,0.264,1.973,4,0.577,9,0.146,401,53,6.7
+266,A Dry White Season,tt0097243,1989,A-Dry-White-Season,8.242,0.511,2.277,4,0.682,6,0.086,325,65,6.5
+271,Eagle Eye,tt1059786,2008,Eagle-Eye,6.558,0.544,2.739,5,0.697,8,0.052,315,77,7
+272,Eastern Promises,tt0765443,2007,Eastern-Promises,8.522,0.325,2.162,4,0.651,1,0.209,122,22,6.6
+273,Edtv,tt0131369,1999,Edtv,8.61,0.493,2.504,6,0.641,5,0.074,417,82,7.7
+274,Ed Wood,tt0109707,1994,Ed-Wood,11.735,0.264,1.896,3,0.678,6,0.11,521,68,7.9
+276,Eight Legged Freaks,tt0271367,2002,Eight-Legged-Freaks,16.769,0.177,1.816,3,0.73,2,0.268,316,25,5.4
+278,Election,tt0126886,1999,Election,7.15,0.318,2.09,3,0.571,3,0.119,171,39,7.3
+279,The Elephant Man,tt0080678,1980,The-Elephant-Man,5.915,0.441,2.256,4,0.61,7,0.085,180,47,8.2
+280,Elizabeth: The Golden Age,tt0414055,2007,Elizabeth:-The-Golden-Age,9.32,0.355,2.469,5,0.521,6,0.115,267,46,6.9
+281,Enemy of the State,tt0120660,1998,Enemy-of-the-State,5.588,0.433,2.174,4,0.574,8,0.068,221,67,7.3
+282,The English Patient,tt0116209,1996,The-English-Patient,8.743,0.465,2.585,5,0.703,1,0.128,211,34,7.4
+283,Entrapment,tt0137494,1999,Entrapment,6.333,0.089,1.578,2,0.636,3,0.288,60,12,6.2
+286,Erin Brockovich,tt0195685,2000,Erin-Brockovich,6.455,0.369,2.07,3,0.531,4,0.078,198,42,7.3
+288,Escape from New York,tt0082340,1981,Escape-from-New-York,5.563,0.374,2.233,4,0.519,6,0.101,116,29,7.2
+289,Eternal Sunshine of the Spotless Mind,tt0338013,2004,Eternal-Sunshine-of-the-Spotless-Mind,10.188,0.382,2.617,6,0.69,1,0.139,213,31,8.3
+290,Even Cowgirls Get the Blues,tt0106834,1993,Even-Cowgirls-Get-the-Blues,5.535,0.43,2.13,3,0.68,6,0.11,126,41,4.3
+291,Event Horizon,tt0119081,1997,Event-Horizon,21.545,0.171,1.743,3,0.706,4,0.242,357,16,6.7
+292,The Evil Dead,tt0083907,1981,The-Evil-Dead,25.6,0,1,1,1,1,1,98,5,7.6
+293,Evil Dead II,tt0092991,1987,Evil-Dead-II,6.75,0.262,1.835,4,0.544,3,0.258,71,14,7.8
+294,Excalibur,tt0082348,1981,Excalibur,10.387,0.297,2.023,4,0.668,2,0.209,189,31,7.4
+295,Extract,tt1225822,2009,Extract,8.714,0.338,1.974,3,0.736,1,0.198,130,22,6.2
+296,The Fabulous Baker Boys,tt0097322,1989,The-Fabulous-Baker-Boys,8.154,0.254,1.995,4,0.72,4,0.108,192,38,6.8
+297,Face/Off,tt0119094,1997,Face/Off,9.1,0.328,2.034,3,0.667,3,0.136,226,40,7.3
+298,Fair Game,tt0977855,2010,Fair-Game,8.261,0.405,2.244,4,0.765,2,0.091,230,60,6.8
+299,The Family Man,tt0218967,2000,The-Family-Man,6.563,0.329,1.871,2,0.769,1,0.129,141,32,6.7
+300,Fantastic Four,tt0120667,2005,Fantastic-Four,12.35,0.279,2.126,4,0.653,4,0.146,318,35,4.3
+301,Fantastic Mr. Fox,tt0432283,2009,Fantastic-Mr.-Fox,13.813,0.221,1.837,3,0.782,1,0.286,252,26,7.8
+302,Fargo,tt0116282,1996,Fargo,5.45,0.511,2.331,4,0.53,5,0.088,124,40,9
+303,Fast Times at Ridgemont High,tt0083929,1982,Fast-Times-at-Ridgemont-High,7.22,0.462,2.364,4,0.742,2,0.089,250,57,7.2
+304,Fatal Instinct,tt0106873,1993,Fatal-Instinct,7.2,0.367,2.11,4,0.626,5,0.111,171,36,5.7
+305,Fear and Loathing in Las Vegas,tt0120669,1998,Fear-and-Loathing-in-Las-Vegas,6.195,0.281,1.986,4,0.653,2,0.102,140,37,7.7
+307,Ferris Bueller's Day Off,tt0091042,1986,Ferris-Bueller's-Day-Off,7.208,0.434,2.388,5,0.483,8,0.094,222,43,7.8
+308,The Fifth Element,tt0119116,1997,The-Fifth-Element,8.719,0.448,2.513,5,0.615,3,0.092,338,64,7.7
+309,Fight Club,tt0137523,1999,Fight-Club,6.36,0.416,2.055,4,0.595,3,0.082,184,46,8.8
+310,Final Destination,tt0195714,2000,Final-Destination,13.125,0.214,1.705,3,0.811,2,0.302,225,27,6.7
+311,Final Destination 2,tt0309593,2003,Final-Destination-2,13.756,0.249,1.969,4,0.603,4,0.209,379,41,6.2
+313,Five Easy Pieces,tt0065724,1970,Five-Easy-Pieces,10.476,0.248,1.71,2,0.851,1,0.29,135,21,7.5
+314,Fletch,tt0089155,1985,Fletch,5.745,0.462,1.964,4,0.59,7,0.084,121,38,6.9
+315,The Flintstones,tt0053502,1960,The-Flintstones,8.52,0.294,2.089,4,0.564,14,0.088,296,46,4.8
+316,Forrest Gump,tt0109830,1994,Forrest-Gump,7.874,0.454,1.992,4,0.803,1,0.065,369,89,8.8
+317,Four Feathers,tt0005353,1915,Four-Feathers,3.379,0.559,2.782,6,0.415,9,0.071,59,27,7.3
+318,Four Rooms,tt0113101,1995,Four-Rooms,9.714,0.485,1.915,3,0.843,1,0.185,170,25,6.7
+319,Fracture,tt0488120,2007,Fracture,5.943,0.352,2.103,4,0.56,1,0.114,124,34,7.2
+320,French Kiss,tt0113117,1995,French-Kiss,6.611,0.419,2.154,4,0.784,2,0.065,224,66,6.5
+321,Frankenstein,tt0109836,1994,Frankenstein,7.763,0.513,2.429,4,0.758,3,0.095,255,49,6
+322,Freddy vs. Jason,tt0329101,2003,Freddy-vs.-Jason,7.667,0.37,2.246,5,0.576,5,0.108,209,42,5.8
+323,The French Connection,tt0067116,1971,The-French-Connection,5.091,0.507,2.591,4,0.555,4,0.088,122,43,7.8
+324,Frequency,tt0186151,2000,Frequency,7.244,0.378,2.116,3,0.598,7,0.091,182,38,7.7
+325,Friday the 13th,tt0080761,1980,Friday-the-13th,8.846,0.545,1.695,3,0.751,4,0.175,160,24,5.6
+326,Friday the 13th Part VIII: Jason Takes Manhattan,tt0097388,1989,Friday-the-13th-Part-VIII:-Jason-Takes-Manhattan,11.5,0.227,1.949,3,0.685,2,0.233,200,27,4.6
+327,From Dusk Till Dawn,tt0116367,1996,From-Dusk-Till-Dawn,13.769,0.231,1.631,2,0.879,1,0.369,189,21,7.3
+328,Cashback,tt0460740,2006,Cashback,12.5,0.077,1.5,3,0.538,4,0.318,116,10,7.2
+329,Frozen River,tt0978759,2008,Frozen-River,5.36,0.457,2.32,4,0.368,4,0.107,94,24,7.2
+330,The Fugitive,tt0106977,1993,The-Fugitive,5.486,0.468,2.31,4,0.518,15,0.055,232,72,7.8
+331,Funny People,tt1201167,2009,Funny-People,9.783,0.35,1.982,3,0.724,4,0.1,297,41,6.4
+332,G.I. Jane,tt0119173,1997,G.I.-Jane,13.571,0.4,2.411,6,0.7,2,0.164,362,41,5.9
+333,G.I. Joe: The Rise of Cobra,tt1046173,2009,G.I.-Joe:-The-Rise-of-Cobra,12.882,0.314,2.092,4,0.654,3,0.157,297,32,5.8
+334,Game 6,tt0425055,2005,Game-6,7.676,0.435,2.037,3,0.671,3,0.113,157,31,5.9
+335,The Game,tt0119174,1997,The-Game,6.5,0.339,1.965,3,0.674,3,0.088,204,51,7.8
+336,Gamer,tt1034032,2009,Gamer,5.704,0.577,2.518,5,0.644,7,0.08,142,41,5.8
+337,Gandhi,tt0083987,1982,Gandhi,6.682,0.49,2.476,6,0.618,8,0.054,322,82,8.1
+338,Gang Related,tt0118900,1997,Gang-Related,8.484,0.395,2.145,4,0.702,6,0.1,288,57,7.6
+339,Gangs of New York,tt0217505,2002,Gangs-of-New-York,9.863,0.351,2.143,4,0.78,2,0.102,423,72,7.5
+340,Gattaca,tt0119177,1997,Gattaca,6.914,0.33,2.308,5,0.493,6,0.119,149,35,7.8
+341,Get Carter,tt0067128,1971,Get-Carter,5.688,0.423,1.891,3,0.665,3,0.125,112,31,5.1
+343,The Getaway,tt0068638,1972,The-Getaway,5.333,0.404,2.468,5,0.552,5,0.098,114,35,7.5
+344,Ghost,tt0099653,1990,Ghost,11.333,0.293,1.95,3,0.79,2,0.163,197,31,7
+346,Ghost Rider,tt0259324,2007,Ghost-Rider,8.051,0.455,2.24,4,0.716,5,0.084,236,52,5.2
+347,Ghost Ship,tt0288477,2002,Ghost-Ship,19.733,0.31,1.8,3,0.805,1,0.438,229,15,6.9
+348,Ghost World,tt0162346,2001,Ghost-World,7.424,0.369,1.997,4,0.865,4,0.088,244,55,7.4
+349,Ghostbusters,tt0087332,1984,Ghostbusters,13.158,0.132,1.728,4,0.633,3,0.333,135,14,5.4
+350,Ghostbusters II,tt0097428,1989,Ghostbusters-II,13.892,0.228,1.998,4,0.655,3,0.171,343,35,6.5
+351,Ginger Snaps,tt0210070,2000,Ginger-Snaps,11.8,0.226,1.803,3,0.641,2,0.211,158,21,6.8
+352,Gladiator,tt0172495,2000,Gladiator,8,0.367,2.145,4,0.667,3,0.171,154,30,8.5
+354,Go,tt0139239,1999,Go,10.051,0.38,2.151,3,0.667,5,0.131,237,34,7.3
+355,The Godfather,tt0068646,1972,The-Godfather,8.476,0.329,2.256,4,0.563,1,0.121,222,42,9.2
+356,The Godfather: Part II,tt0071562,1974,The-Godfather:-Part-II,6.903,0.516,3.059,7,0.666,8,0.056,350,87,9
+357,Gods and Monsters,tt0120684,1998,Gods-and-Monsters,8,0.356,1.954,3,0.645,3,0.175,143,29,7.5
+358,Godzilla,tt0120685,1998,Godzilla,7.304,0.399,2.229,4,0.567,13,0.071,301,67,6.9
+359,Gone in Sixty Seconds,tt0187078,2000,Gone-in-Sixty-Seconds,12.791,0.278,2.183,4,0.612,4,0.141,373,42,6.5
+361,Good Will Hunting,tt0119217,1997,Good-Will-Hunting,9.412,0.396,2.187,4,0.648,1,0.139,187,31,8.3
+362,Gothika,tt0348836,2003,Gothika,8.5,0.184,2.052,5,0.511,3,0.214,137,24,5.8
+363,The Graduate,tt0061722,1967,The-Graduate,7.784,0.399,1.827,2,0.706,4,0.146,175,36,8
+364,Gran Torino,tt1205489,2008,Gran-Torino,8.7,0.411,2.113,4,0.709,2,0.135,197,35,8.2
+366,Grand Theft Parsons,tt0338075,2003,Grand-Theft-Parsons,7.793,0.342,2.172,3,0.421,2,0.145,147,29,6.1
+368,The Green Mile,tt0120689,1999,The-Green-Mile,19,0.246,1.808,4,0.804,2,0.238,424,34,8.5
+369,Gremlins,tt0087363,1984,Gremlins,14.264,0.319,1.804,3,0.791,2,0.21,184,33,7.2
+370,Gremlins 2: The New Batch,tt0099700,1990,Gremlins-2:-The-New-Batch,9.079,0.344,2.225,5,0.725,7,0.093,348,69,6.3
+371,The Grifters,tt0099703,1990,The-Grifters,5.556,0.557,2.342,3,0.544,3,0.098,122,36,7
+372,Grosse Pointe Blank,tt0119229,1997,Grosse-Pointe-Blank,5.3,0.384,2.057,4,0.595,2,0.108,126,40,7.4
+373,Groundhog Day,tt0107048,1993,Groundhog-Day,7.898,0.352,1.964,4,0.708,3,0.088,255,57,8
+374,The Grudge,tt0391198,2004,The-Grudge,4.476,0.413,2.4,4,0.551,2,0.143,53,20,5.9
+375,Hackers,tt0113243,1995,Hackers,10.764,0.434,2.199,4,0.728,3,0.131,324,49,6.2
+376,Halloween: The Curse of Michael Myers,tt0113253,1995,Halloween:-The-Curse-of-Michael-Myers,8.741,0.344,2.272,4,0.614,4,0.127,175,34,5
+377,Hancock,tt0448157,2008,Hancock,5.6,0.524,2.546,5,0.502,5,0.073,169,44,6.4
+378,The Hangover,tt1119646,2009,The-Hangover,13.838,0.235,1.8,3,0.841,1,0.237,319,33,7.8
+379,Hannah and Her Sisters,tt0091167,1986,Hannah-and-Her-Sisters,8.222,0.434,2.132,3,0.739,4,0.135,217,45,8
+383,Hard to Kill,tt0099739,1990,Hard-to-Kill,4.4,0.364,2.307,5,0.491,5,0.092,91,34,5.7
+384,Harold & Kumar Go to White Castle,tt0366551,2004,Harold-&-Kumar-Go-to-White-Castle,9.522,0.343,1.835,3,0.767,6,0.133,250,43,7.1
+385,The Haunting,tt0171363,1999,The-Haunting,16.5,0.28,1.717,3,0.834,1,0.333,200,15,4.9
+386,He's Just Not That Into You,tt1001508,2009,He's-Just-Not-That-Into-You,6.075,0.603,2.613,4,0.71,3,0.083,173,48,6.4
+387,Heat,tt0113277,1995,Heat,6.303,0.467,2.48,5,0.551,6,0.064,239,62,8.2
+388,Heathers,tt0097493,1988,Heathers,14.304,0.236,1.921,4,0.77,2,0.224,405,46,7.3
+389,Heavenly Creatures,tt0110005,1994,Heavenly-Creatures,9.2,0.217,1.756,3,0.683,3,0.238,103,10,7.4
+391,The Hebrew Hammer,tt0317640,2003,The-Hebrew-Hammer,7.455,0.342,1.969,3,0.712,4,0.135,160,38,6.2
+393,Hellbound: Hellraiser II,tt0095294,1988,Hellbound:-Hellraiser-II,8.19,0.248,1.743,3,0.704,3,0.276,89,18,6.5
+394,Hellboy,tt0167190,2004,Hellboy,8.227,0.369,2.339,5,0.501,5,0.098,226,41,6.8
+395,Hellboy II: The Golden Army,tt0411477,2008,Hellboy-II:-The-Golden-Army,12.909,0.239,1.882,3,0.596,6,0.161,319,35,7
+396,Hellraiser,tt0093177,1987,Hellraiser,11,0.183,1.75,3,0.727,1,0.35,120,16,7
+397,Hellraiser III: Hell on Earth,tt0104409,1992,Hellraiser-III:-Hell-on-Earth,6.267,0.441,2.456,5,0.67,2,0.115,67,26,5.4
+398,Hellraiser: Deader,tt0337636,2005,Hellraiser:-Deader,8.87,0.232,1.658,2,0.779,2,0.312,107,22,4.6
+399,Hellraiser: Hellseeker,tt0274546,2002,Hellraiser:-Hellseeker,6.222,0.332,1.892,3,0.616,2,0.133,123,34,5.1
+400,Henry Fool,tt0122529,1997,Henry-Fool,9.226,0.332,2.168,5,0.668,1,0.17,180,30,7.3
+401,High Fidelity,tt0146882,2000,High-Fidelity,9.667,0.234,1.887,3,0.611,1,0.163,165,25,7.5
+402,Highlander,tt0091203,1986,Highlander,4.313,0.611,3.181,6,0.628,5,0.055,150,63,7.2
+403,Highlander: Endgame,tt0144964,2000,Highlander:-Endgame,6.588,0.383,2.24,4,0.712,3,0.105,152,37,4.6
+404,His Girl Friday,tt0032599,1940,His-Girl-Friday,20.952,0.258,1.95,4,0.616,3,0.179,601,40,8
+405,The Hitchhiker's Guide to the Galaxy,tt0371724,2005,The-Hitchhiker's-Guide-to-the-Galaxy,12.811,0.209,2,4,0.644,5,0.171,312,33,6.8
+406,Hollow Man,tt0164052,2000,Hollow-Man,29.286,0.12,1.648,3,0.684,1,0.44,321,13,5.7
+407,Honeydripper,tt0829193,2007,Honeydripper,10,0.283,2.053,4,0.696,2,0.187,219,35,6.8
+408,The Horse Whisperer,tt0119314,1998,The-Horse-Whisperer,15.778,0.201,1.789,3,0.781,1,0.259,291,26,6.6
+409,The Kingdom,tt0108906,1994,The-Kingdom,6.833,0.481,2.453,5,0.592,6,0.092,208,54,7.1
+410,Hostage,tt0340163,2005,Hostage,8.435,0.454,2.424,6,0.666,3,0.108,237,43,6.6
+411,Hot Tub Time Machine,tt1231587,2010,Hot-Tub-Time-Machine,15.722,0.215,1.768,3,0.792,3,0.238,371,33,6.4
+412,Hotel Rwanda,tt0395169,2004,Hotel-Rwanda,8.171,0.347,1.964,3,0.693,5,0.075,325,63,8.1
+413,House of 1000 Corpses,tt0251736,2003,House-of-1000-Corpses,13.105,0.284,2.186,4,0.774,3,0.178,310,32,6
+414,Hudson Hawk,tt0102070,1991,Hudson-Hawk,15.462,0.167,1.697,3,0.716,2,0.308,269,25,5.7
+415,The Hudsucker Proxy,tt0110074,1994,The-Hudsucker-Proxy,6.487,0.533,2.394,4,0.612,13,0.069,255,73,7.3
+416,Human Nature,tt0219822,2001,Human-Nature,7.833,0.344,2.034,4,0.439,3,0.159,130,21,6.4
+417,I Am Sam,tt0277027,2001,I-Am-Sam,10.612,0.33,1.963,4,0.698,2,0.121,266,40,7.6
+418,I Love You Phillip Morris,tt1045772,2009,I-Love-You-Phillip-Morris,5.472,0.446,2.053,3,0.622,3,0.068,160,53,6.6
+419,I Still Know What You Did Last Summer,tt0130018,1998,I-Still-Know-What-You-Did-Last-Summer,14,0.255,1.846,3,0.628,2,0.233,211,21,4.6
+420,I'll Do Anything,tt0110097,1994,I'll-Do-Anything,12.08,0.282,1.941,3,0.839,1,0.162,254,38,5.6
+421,"I, Robot",tt0343818,2004,"I,-Robot",7.935,0.292,1.845,3,0.649,3,0.155,153,29,7.1
+422,The Ice Storm,tt0119349,1997,The-Ice-Storm,8.313,0.391,2.345,5,0.627,1,0.147,165,29,7.5
+423,The Imaginarium of Doctor Parnassus,tt1054606,2009,The-Imaginarium-of-Doctor-Parnassus,14.356,0.255,1.877,3,0.763,2,0.21,383,41,6.8
+424,In the Loop,tt1226774,2009,In-the-Loop,15.486,0.208,1.824,3,0.716,3,0.218,327,32,7.5
+426,Independence Day,tt0116629,1996,Independence-Day,8.244,0.427,2.585,5,0.579,11,0.068,394,78,6.9
+427,Indiana Jones and the Last Crusade,tt0097576,1989,Indiana-Jones-and-the-Last-Crusade,8.963,0.346,1.884,3,0.655,4,0.185,154,26,8.3
+430,Raiders of the Lost Ark,tt0082971,1981,Raiders-of-the-Lost-Ark,12.121,0.448,1.752,3,0.883,2,0.254,242,32,8.5
+432,The Insider,tt0140352,1999,The-Insider,7.8,0.384,2.128,4,0.594,5,0.09,246,50,7.9
+433,Insomnia,tt0278504,2002,Insomnia,8.162,0.315,1.902,4,0.695,5,0.141,180,29,7.2
+434,Interview with the Vampire: The Vampire Chronicles,tt0110148,1994,Interview-with-the-Vampire:-The-Vampire-Chronicles,9.25,0.235,1.779,2,0.726,2,0.203,142,23,7.6
+435,Into the Wild,tt0758758,2007,Into-the-Wild,6.069,0.398,2.069,4,0.438,1,0.103,100,25,8.1
+436,Intolerable Cruelty,tt0138524,2003,Intolerable-Cruelty,6.408,0.338,2.038,4,0.567,6,0.1,186,47,6.3
+437,Inventing the Abbotts,tt0119381,1997,Inventing-the-Abbotts,9.579,0.203,1.919,3,0.554,3,0.228,127,19,6.4
+438,The Invention of Lying,tt1058017,2009,The-Invention-of-Lying,10.294,0.425,1.865,3,0.842,2,0.133,339,60,6.4
+439,The Island,tt0399201,2005,The-Island,4.432,0.506,2.133,4,0.456,6,0.08,101,36,6.9
+442,It's a Wonderful Life,tt0038650,1946,It's-a-Wonderful-Life,12.961,0.366,1.949,3,0.783,3,0.126,474,65,8.6
+444,The Italian Job,tt0317740,2003,The-Italian-Job,7.135,0.365,2.259,4,0.487,6,0.092,172,31,7
+445,The Jacket,tt0366627,2005,The-Jacket,4.811,0.459,2.136,3,0.507,8,0.078,110,35,7.1
+446,Jackie Brown,tt0119396,1997,Jackie-Brown,8.276,0.296,1.939,3,0.771,2,0.165,154,28,7.5
+449,Jason X,tt0211443,2001,Jason-X,29.758,0.141,1.72,4,0.713,3,0.301,708,31,4.4
+450,Jaws,tt0073195,1975,Jaws,5.773,0.339,2.207,4,0.531,8,0.093,159,43,8
+451,Jaws 2,tt0077766,1978,Jaws-2,19.148,0.391,2.065,4,0.698,4,0.164,706,54,5.7
+452,Jay and Silent Bob Strike Back,tt0261392,2001,Jay-and-Silent-Bob-Strike-Back,9.942,0.443,2.02,3,0.772,2,0.116,352,63,6.9
+453,Jennifer Eight,tt0104549,1992,Jennifer-Eight,7.867,0.323,1.948,4,0.672,3,0.154,160,29,6.2
+455,Jerry Maguire,tt0116695,1996,Jerry-Maguire,7.84,0.36,2.109,4,0.649,2,0.105,226,45,7.3
+456,JFK,tt0102138,1991,JFK,7.256,0.48,2.413,5,0.638,15,0.043,524,117,8
+457,Jimmy and Judy,tt0425151,2006,Jimmy-and-Judy,8,0.177,1.766,3,0.628,4,0.182,123,22,6.2
+458,John Q,tt0251160,2002,John-Q,10.926,0.376,2.158,4,0.612,7,0.137,373,51,7.1
+459,Juno,tt0467406,2007,Juno,7.615,0.32,1.863,3,0.698,2,0.169,126,24,7.5
+460,Jurassic Park,tt0107290,1993,Jurassic-Park,22.692,0.111,1.663,3,0.754,2,0.375,391,22,8.1
+461,Jurassic Park III,tt0163025,2001,Jurassic-Park-III,16.571,0.299,1.8,3,0.81,2,0.271,241,21,5.9
+462,The Lost World: Jurassic Park,tt0119567,1997,The-Lost-World:-Jurassic-Park,14.839,0.199,1.918,4,0.72,3,0.206,304,30,6.5
+464,Kalifornia,tt0107302,1993,Kalifornia,12.408,0.243,1.968,3,0.702,5,0.139,246,31,6.7
+466,Kids,tt0113540,1995,Kids,8.667,0.371,2.121,4,0.757,2,0.151,216,39,7
+467,Kill Bill: Vol. 1,tt0266697,2003,Kill-Bill:-Vol.-1,5.024,0.42,2.155,4,0.751,3,0.101,82,31,8.1
+468,Killing Zoe,tt0110265,1993,Killing-Zoe,13.714,0.168,1.781,3,0.667,1,0.305,188,21,6.5
+469,King Kong,tt0360717,2005,King-Kong,9.072,0.391,2.251,5,0.637,14,0.082,281,43,7.2
+470,The King of Comedy,tt0085794,1982,The-King-of-Comedy,7.686,0.45,2.025,4,0.644,7,0.115,221,51,7.8
+472,Indiana Jones and the Kingdom of the Crystal Skull,tt0367882,2008,Indiana-Jones-and-the-Kingdom-of-the-Crystal-Skull,12.604,0.282,2.028,5,0.598,8,0.134,426,51,6.2
+474,Klute,tt0067309,1971,Klute,5.027,0.375,2.177,4,0.613,1,0.107,106,36,7.2
+475,Kramer vs. Kramer,tt0079417,1979,Kramer-vs.-Kramer,13.525,0.312,1.833,2,0.716,3,0.155,128,29,7.8
+476,Kundun,tt0119485,1997,Kundun,4.744,0.487,2.519,5,0.428,6,0.075,122,41,7
+477,Kung Fu Panda,tt0441773,2008,Kung-Fu-Panda,10.96,0.203,1.892,5,0.629,4,0.243,176,20,7.6
+478,L.A. Confidential,tt0119488,1997,L.A.-Confidential,6.943,0.349,2.286,6,0.668,1,0.095,219,52,8.3
+481,The Ladykillers,tt0335245,2004,The-Ladykillers,8.364,0.529,2.116,4,0.776,3,0.123,211,39,6.2
+482,Lake Placid,tt0139414,1999,Lake-Placid,15.304,0.207,1.866,3,0.716,1,0.277,237,22,5.6
+483,Land of the Dead,tt0418819,2005,Land-of-the-Dead,11.613,0.401,2.091,4,0.739,6,0.125,378,49,6.2
+484,The Last Boy Scout,tt0102266,1991,The-Last-Boy-Scout,5.796,0.365,2.181,4,0.664,5,0.086,173,47,6.9
+485,Last Chance Harvey,tt1046947,2008,Last-Chance-Harvey,6.233,0.396,2.077,3,0.6,2,0.116,145,39,6.7
+486,The Last Flight of Noah's Ark,tt0081031,1980,The-Last-Flight-of-Noah's-Ark,22.786,0.106,1.684,3,0.777,2,0.354,328,15,5.8
+487,The Last of the Mohicans,tt0104691,1992,The-Last-of-the-Mohicans,13.931,0.279,1.764,3,0.808,1,0.33,247,29,7.8
+488,The Last Samurai,tt0325710,2003,The-Last-Samurai,13.4,0.233,1.847,4,0.627,1,0.284,172,19,7.7
+489,The Last Station,tt0824758,2009,The-Last-Station,19.059,0.13,1.6,3,0.719,2,0.375,237,16,7
+490,Law Abiding Citizen,tt1197624,2009,Law-Abiding-Citizen,10.84,0.286,2.193,4,0.593,8,0.097,350,48,7.4
+491,Leaving Las Vegas,tt0113627,1995,Leaving-Las-Vegas,4.158,0.434,2.209,3,0.533,5,0.081,94,38,7.6
+494,Legion,tt1038686,2010,Legion,18.348,0.195,1.842,4,0.797,1,0.34,294,21,8.7
+495,Leviathan,tt0097737,1989,Leviathan,36.5,0.07,1.333,2,0.859,1,0.667,342,11,7.6
+496,Liar Liar,tt0119528,1997,Liar-Liar,11.161,0.408,1.915,3,0.746,3,0.142,286,49,6.8
+497,Life,tt0123964,1999,Life,15,0.361,2.12,5,0.761,2,0.137,496,51,7
+498,Life as a House,tt0264796,2001,Life-as-a-House,14.903,0.243,1.877,3,0.726,1,0.234,297,27,7.5
+499,The Life of David Gale,tt0289992,2003,The-Life-of-David-Gale,6.931,0.434,2.316,4,0.696,4,0.087,188,47,7.6
+500,Light Sleeper,tt0102307,1992,Light-Sleeper,6.8,0.282,1.941,3,0.458,3,0.107,110,24,6.8
+501,The Limey,tt0165854,1999,The-Limey,11.462,0.291,1.793,3,0.797,2,0.222,86,22,7.1
+503,Little Athens,tt0417907,2005,Little-Athens,8.792,0.533,2.833,5,0.671,1,0.112,251,47,5.6
+505,Little Nicky,tt0185431,2000,Little-Nicky,12,0.358,2.1,4,0.724,1,0.142,401,52,5.3
+506,Living in Oblivion,tt0113677,1995,Living-in-Oblivion,45.273,0.107,1.629,3,0.697,2,0.394,590,19,7.6
+507,"Lock, Stock and Two Smoking Barrels",tt0120735,1998,"Lock,-Stock-and-Two-Smoking-Barrels",11.571,0.409,2.355,4,0.694,1,0.156,308,40,8.2
+509,Lone Star,tt0116905,1996,Lone-Star,6.453,0.458,2.305,5,0.645,2,0.103,191,53,7.6
+510,The Long Kiss Goodnight,tt0116908,1996,The-Long-Kiss-Goodnight,6.069,0.411,2.468,5,0.564,8,0.071,184,51,6.7
+511,Lord of Illusions,tt0113690,1995,Lord-of-Illusions,8.933,0.326,2.108,4,0.6,2,0.154,175,28,6
+512,The Lord of the Rings: The Fellowship of the Ring,tt0120737,2001,The-Lord-of-the-Rings:-The-Fellowship-of-the-Ring,20.96,0.129,1.767,4,0.679,1,0.377,360,24,8.8
+513,The Lord of the Rings: The Return of the King,tt0167260,2003,The-Lord-of-the-Rings:-The-Return-of-the-King,8.178,0.434,2.515,6,0.584,3,0.121,208,38,8.9
+515,Lord of War,tt0399295,2005,Lord-of-War,6.837,0.414,1.937,3,0.716,1,0.101,170,43,7.6
+516,The Losers,tt0480255,2010,The-Losers,14.353,0.222,1.979,3,0.711,2,0.193,311,31,6.4
+517,Lost Highway,tt0116922,1997,Lost-Highway,6.136,0.526,2.47,5,0.579,6,0.092,158,43,7.6
+518,Lost Horizon,tt0029162,1937,Lost-Horizon,9.647,0.428,2.229,4,0.735,4,0.139,226,34,7.8
+519,Lost in Space,tt0120738,1998,Lost-in-Space,19.667,0.169,1.947,4,0.609,3,0.239,410,26,5.1
+520,Lost in Translation,tt0335266,2003,Lost-in-Translation,4.759,0.365,2.068,3,0.77,3,0.118,81,29,7.8
+521,Love & Basketball,tt0199725,2000,Love-&-Basketball,8.711,0.395,1.963,4,0.733,5,0.131,245,43,7.3
+523,Magnolia,tt0175880,1999,Magnolia,8.022,0.663,3.762,8,0.623,4,0.067,397,85,8
+524,The Majestic,tt0268995,2001,The-Majestic,8.941,0.396,2.265,4,0.704,4,0.129,271,48,6.9
+525,Major League,tt0097815,1989,Major-League,15.133,0.256,1.944,4,0.689,7,0.173,451,48,7.2
+526,Malcolm X,tt0104797,1992,Malcolm-X,5.975,0.496,2.104,4,0.683,5,0.055,262,76,7.7
+527,Malibu's Most Wanted,tt0328099,2003,Malibu's-Most-Wanted,17.946,0.197,1.779,3,0.701,4,0.249,426,36,5.1
+528,The Man in the Iron Mask,tt0120744,1998,The-Man-in-the-Iron-Mask,7.217,0.396,2.318,4,0.565,6,0.108,211,44,6.5
+529,Man on Fire,tt0328107,2004,Man-on-Fire,6.789,0.416,2.171,4,0.595,2,0.107,162,37,7.7
+530,Man on the Moon,tt0125664,1999,Man-on-the-Moon,7.243,0.415,2.164,4,0.662,5,0.07,309,72,7.4
+531,Knight and Day,tt1013743,2010,Knight-and-Day,8.8,0.314,1.924,3,0.731,2,0.182,174,30,6.3
+532,The Man Who Knew Too Much,tt0049470,1956,The-Man-Who-Knew-Too-Much,10,0.294,2.078,5,0.653,5,0.105,322,43,7.5
+533,The Man Who Wasn't There,tt0243133,2001,The-Man-Who-Wasn't-There,7.897,0.338,1.92,3,0.772,1,0.147,165,36,7.6
+534,The Manchurian Candidate,tt0056218,1962,The-Manchurian-Candidate,8.136,0.376,1.999,4,0.688,5,0.138,202,42,6.6
+535,Manhunter,tt0091474,1986,Manhunter,5.56,0.417,2.685,6,0.651,4,0.082,175,49,7.2
+536,Margot at the Wedding,tt0757361,2007,Margot-at-the-Wedding,20,0.087,1.525,2,0.827,1,0.475,221,15,6.1
+537,Desperado,tt0112851,1995,Desperado,4.769,0.239,1.879,3,0.355,2,0.256,38,13,7.2
+539,Marty,tt0048356,1955,Marty,8.077,0.411,2.12,4,0.674,1,0.182,132,25,7.7
+541,The Mask,tt0110475,1994,The-Mask,8.988,0.406,2.177,4,0.698,5,0.091,282,55,6.9
+543,The Matrix,tt0133093,1999,The-Matrix,9.833,0.268,2.07,5,0.606,4,0.162,209,33,8.7
+544,Max Payne,tt0467197,2008,Max-Payne,11.42,0.348,1.915,4,0.793,5,0.144,235,47,5.4
+545,Meet Joe Black,tt0119643,1998,Meet-Joe-Black,13.652,0.167,1.827,3,0.685,2,0.269,220,23,7.1
+547,Megamind,tt1001526,2010,Megamind,7.667,0.324,2.123,3,0.697,2,0.152,167,35,7.3
+548,Memento,tt0209144,2000,Memento,6.267,0.204,1.8,2,0.498,1,0.2,71,14,8.5
+549,Men in Black,tt0119654,1997,Men-in-Black,7.576,0.306,2.171,4,0.614,2,0.142,155,32,7.3
+550,The Men Who Stare at Goats,tt1234548,2009,The-Men-Who-Stare-at-Goats,5.76,0.42,2.356,6,0.623,4,0.079,147,41,6.2
+551,Subway,tt0090095,1985,Subway,6.276,0.407,2.39,6,0.587,4,0.068,186,44,6.5
+552,Miami Vice,tt0430357,2006,Miami-Vice,8.938,0.3,2.034,4,0.68,5,0.165,182,29,7.5
+553,Midnight Cowboy,tt0064665,1969,Midnight-Cowboy,4.588,0.345,1.873,2,0.507,6,0.086,98,34,7.9
+555,Mighty Morphin Power Rangers: The Movie,tt0113820,1995,Mighty-Morphin-Power-Rangers:-The-Movie,24.513,0.228,1.862,3,0.777,2,0.278,643,36,5.1
+556,Milk,tt1013753,2008,Milk,10.409,0.301,1.957,4,0.63,2,0.143,288,43,7.6
+558,Mimic,tt0119675,1997,Mimic,8.071,0.352,1.985,4,0.797,3,0.153,147,28,5.9
+560,Minority Report,tt0181689,2002,Minority-Report,5.968,0.497,2.32,4,0.665,11,0.078,141,46,7.7
+562,Mirrors,tt0790686,2008,Mirrors,6,0.375,1.978,3,0.66,1,0.138,97,26,6.2
+564,Mission: Impossible,tt0117060,1996,Mission:-Impossible,8.867,0.323,1.937,4,0.747,3,0.198,162,29,7.1
+565,Mission: Impossible II,tt0120755,2000,Mission:-Impossible-II,21.391,0.141,1.571,3,0.793,2,0.415,334,22,6.1
+566,Mission to Mars,tt0183523,2000,Mission-to-Mars,19.3,0.257,1.901,4,0.833,1,0.241,375,25,5.6
+567,Monkeybone,tt0166276,2001,Monkeybone,7.119,0.471,2.418,5,0.703,3,0.092,239,56,4.7
+569,Moon,tt1182345,2009,Moon,8.462,0.166,1.667,3,0.587,2,0.346,70,12,7.9
+570,Moonstruck,tt0093565,1987,Moonstruck,7.644,0.349,2.023,4,0.635,4,0.144,184,44,7.1
+571,Mr. Blandings Builds His Dream House,tt0040613,1948,Mr.-Blandings-Builds-His-Dream-House,17.568,0.227,1.853,3,0.826,1,0.236,318,29,4
+572,Mr. Brooks,tt0780571,2007,Mr.-Brooks,7.263,0.437,2.229,4,0.637,1,0.115,173,36,7.4
+573,Mr. Deeds Goes to Town,tt0027996,1936,Mr.-Deeds-Goes-to-Town,12.941,0.363,1.981,4,0.851,3,0.16,446,61,8
+575,"Her Majesty, Mrs. Brown",tt0119280,1997,"Her-Majesty,-Mrs.-Brown",7.04,0.374,2.181,4,0.56,2,0.157,114,23,7.3
+577,Mulholland Dr.,tt0166924,2001,Mulholland-Dr.,7.107,0.429,2.212,5,0.72,5,0.108,211,55,8
+578,Mumford,tt0140397,1999,Mumford,7.172,0.38,1.792,2,0.757,3,0.155,131,28,6.9
+579,The Mummy,tt0120616,1999,The-Mummy,13.143,0.277,1.787,3,0.775,2,0.235,248,22,5.4
+580,Music of the Heart,tt0166943,1999,Music-of-the-Heart,10.721,0.374,2.012,4,0.67,3,0.114,374,58,6.7
+581,My Best Friend's Wedding,tt0119738,1997,My-Best-Friend's-Wedding,9.04,0.264,1.75,2,0.816,1,0.25,135,24,6.3
+582,My Girl,tt0102492,1991,My-Girl,11.471,0.287,1.894,3,0.691,2,0.193,229,33,6.8
+583,My Mother Dreams the Satan's Disciples in New York,tt0177023,1998,My-Mother-Dreams-the-Satan's-Disciples-in-New-York,6.3,0.288,1.719,3,0.669,3,0.263,47,15,7.3
+584,Mystery Men,tt0132347,1999,Mystery-Men,18.25,0.294,1.962,4,0.731,3,0.205,623,54,6
+586,Nashville,tt0073440,1975,Nashville,9.073,0.359,2.348,5,0.587,1,0.163,205,40,7.7
+587,Natural Born Killers,tt0110632,1994,Natural-Born-Killers,8.154,0.513,2.275,4,0.699,3,0.111,249,52,7.3
+591,Newsies,tt0104990,1992,Newsies,26,0.279,1.846,4,0.797,2,0.23,693,47,7
+592,Next,tt0435705,2007,Next,11.81,0.289,1.902,3,0.778,2,0.174,184,23,6.2
+593,Next Friday,tt0195945,2000,Next-Friday,17.913,0.173,1.688,3,0.769,1,0.379,270,21,6.1
+594,The Next Three Days,tt1458175,2010,The-Next-Three-Days,6.364,0.417,2.186,5,0.523,2,0.092,176,42,7.4
+595,Nick of Time,tt0113972,1995,Nick-of-Time,9.371,0.292,2.107,4,0.636,2,0.168,175,30,6.3
+599,A Nightmare on Elm Street,tt0087800,1984,A-Nightmare-on-Elm-Street,7.5,0.398,2.249,4,0.664,2,0.147,142,31,7.5
+600,Freddy's Dead: The Final Nightmare,tt0101917,1991,Freddy's-Dead:-The-Final-Nightmare,10.389,0.326,2.032,3,0.823,1,0.165,230,34,4.9
+601,The Nines,tt0810988,2007,The-Nines,7.217,0.297,1.984,4,0.644,1,0.209,98,21,6.4
+602,Ninja Assassin,tt1186367,2009,Ninja-Assassin,5.379,0.408,2.089,3,0.456,4,0.108,100,29,6.4
+603,Ninotchka,tt0031725,1939,Ninotchka,12.162,0.333,2.062,3,0.724,3,0.18,245,32,8
+605,Notting Hill,tt0125439,1999,Notting-Hill,12.167,0.305,1.84,3,0.824,1,0.178,295,34,7
+606,Nurse Betty,tt0171580,2000,Nurse-Betty,9.6,0.386,2.179,4,0.666,2,0.119,307,50,6.2
+607,"O Brother, Where Art Thou?",tt0190590,2000,"O-Brother,-Where-Art-Thou?",11.617,0.308,1.888,3,0.775,2,0.163,317,46,7.7
+608,Observe and Report,tt1197628,2009,Observe-and-Report,6.813,0.293,1.933,3,0.635,2,0.141,141,32,5.8
+609,Wicker Park,tt0324554,2004,Wicker-Park,16.357,0.202,1.769,3,0.751,2,0.262,130,20,7
+615,One Flew Over the Cuckoo's Nest,tt0073486,1975,One-Flew-Over-the-Cuckoo's-Nest,26.389,0.205,1.68,3,0.852,2,0.3,603,34,8.7
+616,Ordinary People,tt0081283,1980,Ordinary-People,7.532,0.475,2.177,3,0.737,3,0.114,216,47,7.8
+618,Orphan,tt1148204,2009,Orphan,13.143,0.225,1.981,4,0.631,8,0.13,312,34,7
+619,The Other Boleyn Girl,tt0467200,2008,The-Other-Boleyn-Girl,12.343,0.254,1.896,3,0.848,1,0.183,275,33,6.7
+620,Out of Sight,tt0120780,1998,Out-of-Sight,11.15,0.285,1.846,3,0.784,3,0.177,283,39,7
+621,The Pacifier,tt0395699,2005,The-Pacifier,12.612,0.237,1.896,3,0.725,4,0.162,264,40,5.6
+622,Panic Room,tt0258000,2002,Panic-Room,13.333,0.173,1.545,2,0.673,2,0.379,108,12,6.8
+623,The Patriot,tt0187393,2000,The-Patriot,10.588,0.452,2.09,3,0.808,1,0.143,331,50,8.2
+624,Pearl Harbor,tt0213149,2001,Pearl-Harbor,4.675,0.499,3.107,8,0.341,18,0.038,253,78,6.1
+625,Peeping Tom,tt0054167,1960,Peeping-Tom,8.537,0.29,2.055,4,0.575,7,0.141,194,37,7.7
+628,A Perfect World,tt0107808,1993,A-Perfect-World,8.557,0.472,2.404,5,0.623,8,0.078,327,60,7.5
+629,Pet Sematary,tt0098084,1989,Pet-Sematary,7.462,0.332,2.032,3,0.546,7,0.132,143,26,6.6
+630,Pet Sematary II,tt0105128,1992,Pet-Sematary-II,7.875,0.387,1.985,3,0.677,2,0.159,160,32,4.8
+631,Petulia,tt0063426,1968,Petulia,8.977,0.324,1.859,3,0.784,2,0.152,153,29,7.3
+632,Philadelphia,tt0107818,1993,Philadelphia,10.955,0.415,2.087,3,0.824,2,0.121,426,66,8.8
+633,Phone Booth,tt0183649,2002,Phone-Booth,7.333,0.207,1.779,3,0.656,2,0.261,80,18,7.1
+634,Pi,tt0138704,1998,Pi,5.75,0.203,1.752,2,0.519,2,0.217,57,16,7.5
+635,The Pianist,tt0253474,2002,The-Pianist,7.24,0.359,2.07,4,0.542,8,0.087,222,48,8.5
+636,The Piano,tt0107822,1993,The-Piano,8.552,0.336,1.921,3,0.744,3,0.187,140,27,7.6
+637,Pineapple Express,tt0910936,2008,Pineapple-Express,8.486,0.427,1.966,3,0.732,2,0.132,189,35,7
+638,Pirates of the Caribbean: The Curse of the Black Pearl,tt0325980,2003,Pirates-of-the-Caribbean:-The-Curse-of-the-Black-Pearl,11.6,0.271,1.815,3,0.668,3,0.216,242,29,8
+640,Pitch Black,tt0134847,2000,Pitch-Black,30.857,0.093,1.462,3,0.81,2,0.484,319,12,7.1
+641,Planet of the Apes,tt0063442,1968,Planet-of-the-Apes,12.286,0.259,1.738,3,0.741,2,0.271,166,21,5.7
+642,Platinum Blonde,tt0022268,1931,Platinum-Blonde,10.727,0.31,1.931,4,0.792,2,0.218,178,26,6.9
+643,Platoon,tt0091763,1986,Platoon,13.442,0.163,1.95,4,0.622,4,0.219,356,41,8.1
+644,Pleasantville,tt0120789,1998,Pleasantville,10.458,0.311,2.025,4,0.732,4,0.148,298,46,7.5
+645,Point Break,tt0102685,1991,Point-Break,9.806,0.286,1.852,3,0.778,1,0.17,210,31,7.2
+647,Il Postino: The Postman,tt0110877,1994,Il-Postino:-The-Postman,10.308,0.383,1.892,3,0.669,4,0.147,314,52,7.7
+648,The Power of One,tt0105159,1992,The-Power-of-One,7.309,0.371,1.981,3,0.643,7,0.092,222,51,7.2
+649,Precious,tt0929632,2009,Precious,8.444,0.385,1.946,4,0.672,1,0.151,166,35,7.3
+650,Predator,tt0093773,1987,Predator,9.714,0.159,1.846,3,0.531,2,0.319,99,14,5.4
+651,Pretty Woman,tt0100405,1990,Pretty-Woman,6.757,0.325,2.162,4,0.492,2,0.104,168,37,6.9
+652,The Princess Bride,tt0093779,1987,The-Princess-Bride,13.429,0.179,1.838,3,0.691,1,0.305,184,20,8.1
+653,The Private Life of Sherlock Holmes,tt0066249,1970,The-Private-Life-of-Sherlock-Holmes,10.75,0.195,1.732,2,0.756,3,0.225,162,24,7.2
+655,The Jack Benny Program,tt0042116,1950,The-Jack-Benny-Program,10.667,0.331,2.099,4,0.717,2,0.123,325,55,8.7
+656,The Prophecy,tt0114194,1995,The-Prophecy,8.615,0.319,2.02,4,0.661,2,0.135,203,43,6.6
+657,The Proposal,tt1041829,2009,The-Proposal,11.118,0.228,1.867,3,0.671,2,0.176,221,28,6.7
+658,Psycho,tt0054215,1960,Psycho,7.182,0.393,2.157,3,0.776,2,0.212,93,22,8.5
+659,Public Enemies,tt1152836,2009,Public-Enemies,6.929,0.453,2.363,5,0.621,9,0.052,360,97,7
+660,Pulp Fiction,tt0110912,1994,Pulp-Fiction,7.488,0.439,2.345,5,0.761,2,0.126,171,39,8.9
+661,Punch-Drunk Love,tt0272338,2002,Punch-Drunk-Love,7.611,0.367,2.03,4,0.652,2,0.157,151,35,7.3
+662,Purple Rain,tt0087957,1984,Purple-Rain,8.118,0.311,1.998,3,0.673,5,0.159,155,29,6.5
+664,Queen of the Damned,tt0238546,2002,Queen-of-the-Damned,7.19,0.465,2.143,4,0.705,3,0.122,177,41,5.3
+665,The Queen,tt0436697,2006,The-Queen,9.478,0.366,2.15,4,0.612,4,0.13,247,42,7.3
+666,Rachel Getting Married,tt1084950,2008,Rachel-Getting-Married,12.769,0.163,1.743,3,0.671,3,0.249,192,22,6.7
+667,Raging Bull,tt0081398,1980,Raging-Bull,6.895,0.276,1.99,4,0.703,3,0.132,157,37,8.2
+668,Raising Arizona,tt0093822,1987,Raising-Arizona,5.588,0.501,2.409,4,0.496,6,0.105,122,34,7.4
+669,Rambling Rose,tt0102753,1991,Rambling-Rose,16.737,0.246,2.123,4,0.665,1,0.251,224,19,6.7
+670,Rambo: First Blood Part II,tt0089880,1985,Rambo:-First-Blood-Part-II,8.143,0.296,2.158,4,0.615,6,0.146,158,28,6.4
+671,The Reader,tt0976051,2008,The-Reader,6.267,0.371,2.192,4,0.57,2,0.126,120,30,7.6
+672,Real Genius,tt0089886,1985,Real-Genius,11.051,0.368,2.188,5,0.717,3,0.132,333,49,7
+673,Rear Window,tt0047396,1954,Rear-Window,8.632,0.374,1.942,4,0.42,6,0.117,132,15,8.5
+675,Red Planet,tt0199753,2000,Red-Planet,14,0.262,1.853,3,0.687,2,0.257,206,17,7.5
+677,The Relic,tt0120004,1997,The-Relic,7.61,0.327,2.26,5,0.517,5,0.122,197,40,5.7
+678,Remember Me,tt1403981,2010,Remember-Me,9.4,0.3,1.778,2,0.712,2,0.193,172,25,7.2
+679,The Replacements,tt0191397,2000,The-Replacements,11.509,0.329,2.157,4,0.701,4,0.147,379,56,6.5
+682,Reservoir Dogs,tt0105236,1992,Reservoir-Dogs,10,0.226,1.783,4,0.711,3,0.28,145,23,8.3
+683,Resident Evil,tt0120804,2002,Resident-Evil,16.545,0.342,1.831,4,0.71,5,0.18,375,29,6.7
+685,Revolutionary Road,tt0959337,2008,Revolutionary-Road,10,0.299,1.915,4,0.666,2,0.199,126,19,7.3
+686,Ring,tt0178868,1998,Ring,6.2,0.41,2.113,4,0.639,2,0.159,112,29,5.3
+688,The Road,tt0898367,2009,The-Road,11.857,0.151,1.705,2,0.68,2,0.253,108,12,7.3
+689,Robin Hood: Prince of Thieves,tt0102798,1991,Robin-Hood:-Prince-of-Thieves,13.956,0.257,1.909,3,0.713,4,0.188,381,42,6.9
+691,The Rock,tt0117500,1996,The-Rock,8.051,0.426,2.215,4,0.626,3,0.124,203,37,7.4
+692,RocknRolla,tt1032755,2008,RocknRolla,15.429,0.313,1.814,2,0.736,2,0.168,430,42,7.3
+693,Rocky,tt0075148,1976,Rocky,8.816,0.361,1.896,4,0.735,4,0.145,244,48,8.1
+694,The Rocky Horror Picture Show,tt0073629,1975,The-Rocky-Horror-Picture-Show,16.727,0.183,1.788,3,0.78,1,0.342,180,16,7.4
+695,Romeo  Juliet,tt0117509,1996,Romeo--Juliet,7.689,0.338,2.194,5,0.63,5,0.121,174,28,6.8
+696,Ronin,tt0122690,1998,Ronin,11.304,0.194,1.76,3,0.599,5,0.194,182,23,7.3
+697,Gunsmoke,tt0045847,1953,Gunsmoke,25.462,0.154,1.57,3,0.765,2,0.409,198,22,8
+698,The Ruins,tt0963794,2008,The-Ruins,24.4,0.097,1.667,3,0.708,2,0.384,220,9,5.9
+699,Runaway Bride,tt0163187,1999,Runaway-Bride,10.424,0.291,1.884,3,0.778,2,0.188,214,33,5.5
+700,Rush Hour,tt0120812,1998,Rush-Hour,10.591,0.431,2.449,5,0.594,5,0.115,290,43,6.9
+701,Rush Hour 2,tt0266915,2001,Rush-Hour-2,7.538,0.231,1.815,2,0.658,3,0.157,124,24,6.6
+703,Donnie Darko,tt0246578,2001,Donnie-Darko,7.767,0.351,2.145,4,0.589,5,0.117,174,35,8.1
+704,The Saint,tt0120053,1997,The-Saint,4.776,0.515,2.291,4,0.625,8,0.057,176,63,6.2
+705,The Salton Sea,tt0235737,2002,The-Salton-Sea,7.586,0.378,2.039,4,0.685,1,0.14,139,28,7.2
+706,The Sandlot,tt0108037,1993,The-Sandlot,35.692,0.174,1.822,3,0.8,1,0.31,856,26,7.8
+707,Save the Last Dance,tt0206275,2001,Save-the-Last-Dance,9.824,0.22,1.987,3,0.752,2,0.166,225,33,6.2
+708,Saving Private Ryan,tt0120815,1998,Saving-Private-Ryan,21.429,0.183,1.597,3,0.775,2,0.382,310,20,8.6
+710,Scarface,tt0086250,1983,Scarface,11.283,0.321,1.902,3,0.712,4,0.117,344,49,8.3
+713,Scream,tt0117571,1996,Scream,10.643,0.3,2.348,5,0.709,3,0.183,204,28,7.3
+714,Scream 2,tt0120082,1997,Scream-2,12.783,0.341,2.482,6,0.779,2,0.196,336,42,6.1
+715,Scream 3,tt0134084,2000,Scream-3,11.548,0.229,1.853,4,0.765,2,0.267,218,30,5.5
+716,Se7en,tt0114369,1995,Se7en,6.12,0.344,2.181,4,0.637,2,0.082,194,50,8.6
+717,The Searchers,tt0049730,1956,The-Searchers,15.488,0.29,1.977,3,0.664,4,0.168,406,34,8
+718,Semi-Pro,tt0839980,2008,Semi-Pro,15.6,0.226,1.906,3,0.737,3,0.166,526,52,5.8
+719,Sense and Sensibility,tt0114388,1995,Sense-and-Sensibility,24.8,0.126,1.613,3,0.818,1,0.427,419,25,7.7
+720,Serenity,tt0379786,2005,Serenity,17.81,0.278,2.046,4,0.644,3,0.185,429,32,7.9
+721,Serial Mom,tt0111127,1994,Serial-Mom,9.673,0.278,2.039,3,0.675,7,0.116,324,54,6.7
+723,Sex and the City,tt0159206,1998,Sex-and-the-City,12.458,0.265,2.067,3,0.643,2,0.107,401,46,7
+724,"Sex, Lies, and Videotape",tt0098724,1989,"Sex,-Lies,-and-Videotape",11.6,0.093,1.511,3,0.687,1,0.556,86,10,7.2
+725,Sexual Life,tt0376874,2005,Sexual-Life,6.2,0.477,2.628,5,0.557,2,0.136,95,27,5.1
+727,Shakespeare in Love,tt0138097,1998,Shakespeare-in-Love,13.32,0.251,2.061,4,0.665,3,0.18,406,47,7.4
+729,Shampoo,tt0073692,1975,Shampoo,13.511,0.243,1.833,3,0.824,2,0.211,360,44,6.3
+730,The Shawshank Redemption,tt0111161,1994,The-Shawshank-Redemption,11.767,0.253,1.91,3,0.695,6,0.158,324,40,9.3
+731,She's Out of My League,tt0815236,2010,She's-Out-of-My-League,10.5,0.33,2.027,3,0.808,3,0.114,357,58,6.4
+732,Sherlock Holmes,tt0988045,2009,Sherlock-Holmes,6.722,0.302,2.221,5,0.561,3,0.111,158,36,7.6
+733,The Shining,tt0081505,1980,The-Shining,7.769,0.354,2.033,3,0.577,4,0.154,132,26,8.4
+734,The Shipping News,tt0120824,2001,The-Shipping-News,8.533,0.364,1.894,3,0.718,1,0.156,156,28,6.8
+735,They Came from Within,tt0073705,1975,They-Came-from-Within,4.19,0.34,1.959,4,0.452,4,0.152,52,21,6.6
+737,Sideways,tt0375063,2004,Sideways,9.306,0.295,1.941,3,0.656,7,0.111,188,29,7.5
+738,The Siege,tt0133952,1998,The-Siege,8.421,0.462,2.167,4,0.646,8,0.091,289,52,7.4
+739,Signs,tt0286106,2002,Signs,10.636,0.307,1.974,3,0.741,1,0.234,154,21,6.7
+740,The Silence of the Lambs,tt0102926,1991,The-Silence-of-the-Lambs,6.491,0.436,2.464,5,0.608,3,0.086,150,36,8.6
+741,Silver Bullet,tt0090021,1985,Silver-Bullet,5.647,0.462,2.532,5,0.405,6,0.096,128,33,7.8
+742,S1m0ne,tt0258153,2002,S1m0ne,7.17,0.387,1.958,3,0.612,5,0.085,227,50,6.1
+743,Sister Act,tt0105417,1992,Sister-Act,14.593,0.33,1.988,3,0.757,3,0.152,378,41,6.3
+744,The Sixth Sense,tt0167404,1999,The-Sixth-Sense,4.138,0.48,2.437,5,0.479,4,0.106,70,28,8.1
+745,Sleepless in Seattle,tt0108160,1993,Sleepless-in-Seattle,8.556,0.391,2.136,3,0.682,2,0.108,278,54,6.8
+746,Sleepy Hollow,tt0162661,1999,Sleepy-Hollow,10.323,0.332,2.308,4,0.684,2,0.181,215,30,7.5
+747,Sling Blade,tt0117666,1996,Sling-Blade,10.129,0.367,2.51,7,0.664,1,0.178,186,31,8
+748,Slither,tt0439815,2006,Slither,10.167,0.276,2.157,4,0.552,3,0.157,229,32,6.5
+749,Slumdog Millionaire,tt1010048,2008,Slumdog-Millionaire,8.321,0.423,2.132,5,0.742,4,0.091,227,42,8
+751,Snatch,tt0208092,2000,Snatch.,12.537,0.359,2.061,4,0.658,2,0.193,290,37,6.9
+753,Snow Falling on Cedars,tt0120834,1999,Snow-Falling-on-Cedars,6.718,0.381,2.514,5,0.573,1,0.117,153,39,6.8
+754,So I Married an Axe Murderer,tt0108174,1993,So-I-Married-an-Axe-Murderer,8.175,0.404,1.955,3,0.788,4,0.101,204,44,6.4
+755,Solaris,tt0307479,2002,Solaris,17.2,0,1,1,1,1,1,72,5,8.1
+756,Soldier,tt0120157,1998,Soldier,9.2,0.385,2.217,5,0.578,3,0.193,164,28,6
+757,Someone to Watch Over Me,tt0094008,1987,Someone-to-Watch-Over-Me,8.286,0.291,1.967,4,0.597,3,0.161,150,28,6.1
+758,Something's Gotta Give,tt0337741,2003,Something's-Gotta-Give,16.267,0.209,1.729,3,0.821,1,0.313,292,28,6.7
+760,Spanglish,tt0371246,2004,Spanglish,12.64,0.381,2.007,3,0.744,2,0.237,218,25,6.4
+761,Spare Me,tt0108200,1994,Spare-Me,9.333,0.244,1.914,4,0.703,3,0.189,187,29,6.8
+762,Meet the Spartans,tt1073498,2008,Meet-the-Spartans,7.25,0.374,1.948,3,0.694,3,0.1,227,55,2.7
+764,Speed Racer,tt0811080,2008,Speed-Racer,11.823,0.378,2.361,5,0.697,4,0.089,506,64,6.1
+765,Sphere,tt0120184,1998,Sphere,25.125,0.095,1.676,3,0.611,2,0.317,299,16,6
+766,Spider-Man,tt0145487,2002,Spider-Man,10.585,0.399,2.519,6,0.558,4,0.139,291,40,7.3
+767,Star Trek,tt0060028,1966,Star-Trek,9.013,0.435,2.725,6,0.551,13,0.067,407,70,8.4
+768,Star Trek II: The Wrath of Khan,tt0084726,1982,Star-Trek-II:-The-Wrath-of-Khan,22.963,0.182,1.793,3,0.709,3,0.305,444,24,7.7
+769,Star Trek: First Contact,tt0117731,1996,Star-Trek:-First-Contact,10.545,0.289,2.216,4,0.546,4,0.15,227,32,7.6
+770,Star Trek: Generations,tt0111280,1994,Star-Trek:-Generations,12.14,0.451,2.123,4,0.707,3,0.179,290,37,6.6
+771,Star Trek: Insurrection,tt0120844,1998,Star-Trek:-Insurrection,19.619,0.151,1.886,4,0.724,1,0.357,305,21,6.4
+772,Star Trek: The Motion Picture,tt0079945,1979,Star-Trek:-The-Motion-Picture,18.867,0.232,1.799,3,0.717,2,0.241,388,29,6.4
+774,Star Wars: Episode II - Attack of the Clones,tt0121765,2002,Star-Wars:-Episode-II---Attack-of-the-Clones,9.872,0.367,2.082,3,0.751,1,0.137,281,47,6.7
+775,Star Wars: Episode VI - Return of the Jedi,tt0086190,1983,Star-Wars:-Episode-VI---Return-of-the-Jedi,8.541,0.375,2.229,4,0.486,5,0.128,205,37,8.4
+777,Star Wars: Episode V - The Empire Strikes Back,tt0080684,1980,Star-Wars:-Episode-V---The-Empire-Strikes-Back,8.359,0.391,2.703,6,0.533,2,0.112,225,39,8.8
+779,Starman,tt0088172,1984,Starman,7.625,0.504,2.345,4,0.664,5,0.095,199,41,7
+780,Starship Troopers,tt0120201,1997,Starship-Troopers,14.808,0.262,1.949,4,0.727,4,0.141,490,49,7.2
+781,State and Main,tt0120202,2000,State-and-Main,15.591,0.23,1.85,3,0.755,3,0.22,432,44,6.8
+782,Station West,tt0040835,1948,Station-West,13.533,0.248,1.816,3,0.742,1,0.232,234,30,6.7
+783,Stepmom,tt0120686,1998,Stepmom,10.87,0.33,2.095,3,0.752,1,0.178,173,21,6.7
+784,The Sting,tt0070735,1973,The-Sting,9.488,0.3,2.242,5,0.639,4,0.133,249,43,8.3
+785,Stir of Echoes,tt0164181,1999,Stir-of-Echoes,10.242,0.298,1.865,3,0.791,2,0.22,167,23,7
+786,Storytelling,tt0250081,2001,Storytelling,8,0.5,1.936,4,0.582,2,0.175,158,32,6.9
+787,Strange Days,tt0114558,1995,Strange-Days,7.95,0.412,2.082,4,0.76,2,0.135,180,35,7.2
+788,Strangers on a Train,tt0044079,1951,Strangers-on-a-Train,10.115,0.395,2.014,5,0.808,2,0.16,243,47,8
+790,Sugar,tt0990413,2008,Sugar,7.527,0.398,2.018,4,0.575,10,0.088,244,55,7.2
+791,Sugar & Spice,tt0186589,2001,Sugar-&-Spice,9.787,0.362,2.104,4,0.702,4,0.121,297,46,7.2
+792,Sunset Blvd.,tt0043014,1950,Sunset-Blvd.,6.1,0.391,2.175,4,0.674,6,0.096,115,26,8.5
+793,Sunshine Cleaning,tt0862846,2008,Sunshine-Cleaning,7.806,0.407,2.195,4,0.623,2,0.127,166,30,6.9
+794,Superbad,tt0829482,2007,Superbad,10.595,0.371,2.039,3,0.803,1,0.15,260,35,7.6
+797,The Surfer King,tt0418206,2006,The-Surfer-King,8.581,0.286,2.277,4,0.429,1,0.135,183,29,3.9
+798,Suspect Zero,tt0324127,2004,Suspect-Zero,4.485,0.342,1.974,4,0.385,7,0.095,89,31,5.9
+799,The Sweet Hereafter,tt0120255,1997,The-Sweet-Hereafter,8.556,0.258,1.843,3,0.65,1,0.248,104,18,7.7
+800,Sweet Smell of Success,tt0051036,1957,Sweet-Smell-of-Success,8.108,0.408,1.967,3,0.77,1,0.167,170,37,8.2
+801,Swingers,tt0117802,1996,Swingers,12.231,0.238,1.696,3,0.75,4,0.24,190,23,7.4
+802,Swordfish,tt0244244,2001,Swordfish,5.455,0.446,2.483,6,0.57,5,0.098,116,33,6.5
+803,"Synecdoche, New York",tt0383028,2008,"Synecdoche,-New-York",10.857,0.426,2.016,4,0.634,10,0.079,235,49,7.6
+804,Taking Lives,tt0364045,2004,Taking-Lives,6.343,0.337,2.199,4,0.427,6,0.094,147,34,6.2
+805,Taking Sides,tt0260414,2001,Taking-Sides,6.857,0.23,1.819,3,0.681,3,0.214,94,21,7.2
+806,The Talented Mr. Ripley,tt0134119,1999,The-Talented-Mr.-Ripley,9.043,0.306,1.866,3,0.647,2,0.166,145,23,7.3
+808,Taxi Driver,tt0075314,1976,Taxi-Driver,6.833,0.32,1.759,2,0.783,2,0.221,96,23,8.3
+809,The Terminator,tt0088247,1984,The-Terminator,3.854,0.514,2.598,5,0.445,9,0.065,98,41,8
+810,Terminator 2: Judgment Day,tt0103064,1991,Terminator-2:-Judgment-Day,6.839,0.285,2.28,5,0.546,6,0.123,139,29,8.5
+811,Terminator Salvation,tt0438488,2009,Terminator-Salvation,9.2,0.397,1.968,3,0.653,5,0.165,185,30,6.6
+815,The Thing,tt0084787,1982,The-Thing,35.636,0.085,1.433,3,0.794,2,0.545,486,14,8.2
+816,Thirteen Days,tt0146309,2000,Thirteen-Days,11.593,0.291,2.281,5,0.569,5,0.109,415,51,7.3
+818,Three Kings,tt0120188,1999,Three-Kings,15.268,0.298,1.878,3,0.72,2,0.215,378,40,7.1
+819,Kings of the Turf,tt0033788,1941,Kings-of-the-Turf,13.833,0.117,1.556,2,0.474,4,0.242,118,8,5.4
+820,3 Men and a Baby,tt0094137,1987,3-Men-and-a-Baby,12,0.331,2.026,4,0.677,1,0.168,314,43,5.9
+821,The Three Musketeers,tt0108333,1993,The-Three-Musketeers,8.737,0.274,1.946,4,0.668,7,0.171,207,37,5.8
+822,Thunderheart,tt0105585,1992,Thunderheart,10.571,0.307,1.805,3,0.814,3,0.189,218,36,6.8
+824,Timber Falls,tt0857295,2007,Timber-Falls,11.8,0.069,1.333,2,0.674,2,0.533,83,10,5.3
+825,The Time Machine,tt0268695,2002,The-Time-Machine,7.667,0.263,1.667,2,0.6,1,0.333,56,11,5.9
+826,Tin Cup,tt0117918,1996,Tin-Cup,15.371,0.24,1.857,3,0.744,2,0.213,315,32,6.3
+827,The Day After Tomorrow,tt0319262,2004,The-Day-After-Tomorrow,13.333,0.277,1.994,3,0.673,1,0.199,343,42,6.4
+828,Titanic,tt0120338,1997,Titanic,12.306,0.343,2.198,4,0.723,3,0.117,547,72,7.7
+829,TMNT,tt0453556,2007,TMNT,20,0.22,1.725,4,0.63,6,0.244,551,41,6.3
+830,To Sleep with Anger,tt0100791,1990,To-Sleep-with-Anger,12.378,0.213,1.911,3,0.597,6,0.176,304,36,7.1
+831,Tombstone,tt0108358,1993,Tombstone,23.875,0.203,1.802,4,0.758,1,0.299,707,45,7.8
+832,Tomorrow Never Dies,tt0120347,1997,Tomorrow-Never-Dies,7.089,0.532,2.461,4,0.743,4,0.072,316,77,6.5
+833,Top Gun,tt0092099,1986,Top-Gun,14.333,0.267,1.749,3,0.737,3,0.265,310,34,6.9
+834,Total Recall,tt0100802,1990,Total-Recall,5.304,0.442,2.22,4,0.546,6,0.082,146,45,7.5
+835,The Tourist,tt1243957,2010,The-Tourist,10.762,0.254,1.877,3,0.612,3,0.219,153,21,6
+836,Toy Story,tt0114709,1995,Toy-Story,20.4,0.342,1.816,4,0.787,2,0.262,526,39,8.3
+837,Traffic,tt0181865,2000,Traffic,5.023,0.698,3.543,7,0.545,7,0.044,231,80,7.6
+839,Trainspotting,tt0117951,1996,Trainspotting,9.727,0.215,1.9,3,0.589,1,0.26,142,22,8.2
+840,The Transformers: The Movie,tt0092106,1986,The-Transformers:-The-Movie,25.152,0.214,1.809,4,0.759,2,0.288,695,53,7.3
+841,Tremors,tt0100814,1990,Tremors,29.368,0.119,1.423,2,0.749,2,0.462,413,17,7.1
+843,TRON,tt0084827,1982,TRON,11.032,0.274,1.807,4,0.682,3,0.252,192,26,6.8
+844,Tropic Thunder,tt0942385,2008,Tropic-Thunder,14.826,0.276,2.034,5,0.72,2,0.213,293,29,7
+846,True Lies,tt0111503,1994,True-Lies,9.086,0.412,2.133,4,0.601,4,0.109,216,29,7.2
+847,True Romance,tt0108399,1993,True-Romance,16.591,0.182,1.895,4,0.706,1,0.265,313,37,8
+848,The Truman Show,tt0120382,1998,The-Truman-Show,5.286,0.515,2.215,4,0.59,7,0.063,183,55,8.1
+849,Twilight,tt1099212,2008,Twilight,15.529,0.28,1.727,3,0.706,4,0.241,323,28,5.2
+850,New Moon,tt1259571,2009,New-Moon,11.707,0.339,1.836,3,0.734,3,0.162,313,41,4.6
+851,Twin Peaks,tt0098936,1990,Twin-Peaks,5.938,0.568,2.711,5,0.582,4,0.074,231,64,8.9
+852,Dead Ringers,tt0094964,1988,Dead-Ringers,7.13,0.386,2.247,5,0.597,2,0.096,220,46,7.3
+853,Two for the Money,tt0417217,2005,Two-for-the-Money,8.356,0.275,1.889,3,0.693,4,0.111,231,41,6.2
+854,U Turn,tt0120399,1997,U-Turn,8.3,0.29,1.726,2,0.712,1,0.274,107,20,6.8
+855,Unbreakable,tt0217869,2000,Unbreakable,4.647,0.382,2.146,4,0.482,3,0.112,91,34,7.2
+857,Up,tt1049413,2009,Up,9.913,0.269,2.206,4,0.536,1,0.206,149,19,8.3
+858,Up in the Air,tt1193138,2009,Up-in-the-Air,6.5,0.342,1.963,3,0.481,2,0.124,125,28,7.4
+860,V for Vendetta,tt0434409,2006,V-for-Vendetta,6.075,0.521,2.649,5,0.695,5,0.081,177,51,8.2
+861,Valkyrie,tt0985699,2008,Valkyrie,6.783,0.417,2.494,6,0.592,2,0.098,185,44,7.1
+862,Vanilla Sky,tt0259711,2001,Vanilla-Sky,7.133,0.302,1.83,2,0.794,2,0.159,119,24,6.9
+863,The Verdict,tt0084855,1982,The-Verdict,8.667,0.265,2.043,4,0.745,1,0.132,204,38,7.8
+865,Very Bad Things,tt0124198,1998,Very-Bad-Things,14.5,0.209,1.829,4,0.745,5,0.192,284,26,6.3
+867,Virtuosity,tt0114857,1995,Virtuosity,6.596,0.321,2.163,4,0.482,9,0.084,198,44,5.5
+869,Wag the Dog,tt0120885,1997,Wag-the-Dog,12.25,0.263,1.991,4,0.811,2,0.138,460,61,7.1
+870,A Walk to Remember,tt0281358,2002,A-Walk-to-Remember,11.7,0.238,1.816,3,0.645,1,0.221,170,20,7.4
+871,Walking Tall,tt0351977,2004,Walking-Tall,9.744,0.406,1.914,4,0.75,1,0.2,213,37,6.2
+872,Wall Street,tt0094291,1987,Wall-Street,9.164,0.433,2.067,4,0.68,3,0.109,301,55,7.4
+873,WALL-E,tt0910970,2008,WALL-E,14.757,0.187,1.686,3,0.697,4,0.309,139,18,5.8
+874,Wanted,tt0493464,2008,Wanted,5.486,0.4,1.803,2,0.658,6,0.103,109,31,6.7
+875,War of the Worlds,tt0407304,2005,War-of-the-Worlds,10.71,0.299,1.755,2,0.868,1,0.245,190,30,6.5
+876,Warm Springs,tt0423510,2005,Warm-Springs,10.912,0.336,1.95,3,0.69,5,0.127,385,53,7.7
+877,Watchmen,tt0409459,2009,Watchmen,6.84,0.493,2.569,5,0.701,4,0.063,288,72,7.6
+878,We Own the Night,tt0498399,2007,We-Own-the-Night,10.355,0.268,1.989,4,0.701,5,0.111,342,50,6.9
+879,What About Bob?,tt0103241,1991,What-About-Bob?,10.308,0.428,2.137,3,0.688,2,0.101,343,50,7
+880,What Lies Beneath,tt0161081,2000,What-Lies-Beneath,7,0.209,1.791,2,0.616,1,0.209,87,18,6.6
+881,When a Stranger Calls,tt0455857,2006,When-a-Stranger-Calls,6.81,0.457,2.329,4,0.653,2,0.136,125,38,5
+883,While She Was Out,tt0887971,2008,While-She-Was-Out,7.789,0.319,1.813,3,0.653,1,0.246,93,18,4.8
+884,White Christmas,tt0047673,1954,White-Christmas,13.724,0.233,1.759,3,0.822,1,0.296,243,28,7.6
+887,White Squall,tt0118158,1996,White-Squall,30.261,0.181,1.775,3,0.752,1,0.299,906,43,6.6
+888,Whiteout,tt0365929,2009,Whiteout,8.88,0.242,1.783,2,0.769,1,0.217,136,19,5.5
+889,Who Framed Roger Rabbit,tt0096438,1988,Who-Framed-Roger-Rabbit,7.913,0.399,1.967,4,0.774,4,0.133,207,41,7.7
+891,Wild at Heart,tt0100935,1990,Wild-at-Heart,6.356,0.425,2.437,5,0.614,5,0.085,180,45,7.2
+892,The Wild Bunch,tt0065214,1969,The-Wild-Bunch,26.667,0.225,1.744,3,0.83,2,0.25,636,42,8
+893,Where the Wild Things Are,tt0386117,2009,Where-the-Wild-Things-Are,10.267,0.278,1.968,4,0.636,3,0.202,208,30,6.8
+895,Wild Wild West,tt0120891,1999,Wild-Wild-West,10.333,0.286,2.037,4,0.626,3,0.177,207,28,4.8
+896,Willow,tt0096446,1988,Willow,11.61,0.396,2.071,4,0.74,2,0.159,308,40,7.3
+899,Witness,tt0090329,1985,Witness,11.963,0.287,2.026,5,0.632,7,0.161,219,38,7.4
+901,Wonder Boys,tt0185014,2000,Wonder-Boys,11.586,0.274,1.788,2,0.719,1,0.212,225,29,7.4
+902,The Woodsman,tt0361127,2004,The-Woodsman,5.111,0.29,1.857,3,0.535,4,0.163,63,16,7.2
+904,The Wrestler,tt1125849,2008,The-Wrestler,3.643,0.421,2.061,4,0.443,11,0.055,115,50,7.9
+905,The X Files,tt0120902,1998,The-X-Files,5.077,0.419,2.38,5,0.477,3,0.126,81,24,8.7
+906,X-Men,tt0120903,2000,X-Men,10,0.238,1.857,4,0.676,2,0.262,167,24,7.4
+907,X-Men Origins: Wolverine,tt0458525,2009,X-Men-Origins:-Wolverine,5.333,0.431,2.493,6,0.503,4,0.079,138,41,6.7
+908,xXx,tt0295701,2002,xXx,6.75,0.346,1.872,3,0.623,6,0.121,131,26,5.8
+910,Yes Man,tt1068680,2008,Yes-Man,9.143,0.351,1.899,2,0.729,2,0.097,308,51,6.8
+911,You Can Count on Me,tt0203230,2000,You-Can-Count-on-Me,11.4,0.275,1.752,3,0.583,4,0.211,153,18,7.7
+913,Youth in Revolt,tt0403702,2009,Youth-in-Revolt,11,0.287,1.916,4,0.64,2,0.145,276,34,6.5
+914,Zerophilia,tt0421090,2005,Zerophilia,13.625,0.101,1.604,3,0.557,3,0.367,150,14,6.3
